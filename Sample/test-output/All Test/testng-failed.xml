@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test]">
+  <test thread-count="5" name="LoginTest(failed)">
+    <classes>
+      <class name="com.Sample.CompanyName.ProjectName.testScripts.LoginPage.LoginTest">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="testLoginToApplication"/>
+          <include name="beforeMethod"/>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.Sample.CompanyName.ProjectName.testScripts.LoginPage.LoginTest -->
+    </classes>
+  </test> <!-- LoginTest(failed) -->
+  <test thread-count="5" name="Registration Test(failed)">
+    <classes>
+      <class name="com.Sample.CompanyName.ProjectName.testScripts.registration.RegistrationTest">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="testLoginToApplication"/>
+          <include name="beforeMethod"/>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.Sample.CompanyName.ProjectName.testScripts.registration.RegistrationTest -->
+    </classes>
+  </test> <!-- Registration Test(failed) -->
+  <test thread-count="5" name="VerifyLowestFirstPriceFilter Test(failed)">
+    <classes>
+      <class name="com.Sample.CompanyName.ProjectName.testScripts.productDetailsPage.VerifyLowestFirstPriceFilter">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="verifyLowestFirstPriceListInProduct_detailsPage"/>
+          <include name="beforeMethod"/>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.Sample.CompanyName.ProjectName.testScripts.productDetailsPage.VerifyLowestFirstPriceFilter -->
+    </classes>
+  </test> <!-- VerifyLowestFirstPriceFilter Test(failed) -->
+</suite> <!-- Failed suite [All Test] -->

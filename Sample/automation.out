@@ -1,0 +1,1841 @@
+2020-05-29 13:05:466 INFO  LoggerHelper :21 - logger is configured
+2020-05-29 13:05:474 INFO  LoggerHelper :22 - logger is configured
+2020-05-29 13:05:474 INFO  LoggerHelper :23 - logger is configured
+2020-05-29 13:05:887 INFO  LoggerHelper :21 - logger is configured
+2020-05-29 13:05:887 INFO  LoggerHelper :22 - logger is configured
+2020-05-29 13:05:887 INFO  LoggerHelper :23 - logger is configured
+2020-05-29 13:05:316 INFO  LoggerHelper :21 - logger is configured
+2020-05-29 13:05:316 INFO  LoggerHelper :22 - logger is configured
+2020-05-29 13:05:316 INFO  LoggerHelper :23 - logger is configured
+2020-05-29 13:05:920 INFO  LoggerHelper :20 - logger is configured
+2020-05-29 13:05:920 INFO  LoggerHelper :21 - logger is configured
+2020-05-29 13:05:920 INFO  LoggerHelper :22 - logger is configured
+2020-05-29 13:05:676 INFO  LoggerHelper :20 - logger is configured
+2020-05-29 13:05:676 INFO  LoggerHelper :21 - logger is configured
+2020-05-29 13:05:676 INFO  LoggerHelper :22 - logger is configured
+2020-05-29 13:05:166 INFO  LoggerHelper :20 - logger is configured
+2020-05-29 13:05:166 INFO  LoggerHelper :21 - logger is configured
+2020-05-29 13:05:166 INFO  LoggerHelper :22 - logger is configured
+2020-05-29 13:05:225 INFO  LoggerHelper :20 - logger is configured
+2020-05-29 13:05:225 INFO  LoggerHelper :21 - logger is configured
+2020-05-29 13:05:225 INFO  LoggerHelper :22 - logger is configured
+2020-05-29 13:05:20 INFO  LoggerHelper :20 - logger is configured
+2020-05-29 13:05:20 INFO  LoggerHelper :21 - logger is configured
+2020-05-29 13:05:20 INFO  LoggerHelper :22 - logger is configured
+2020-05-29 13:05:692 INFO  LoggerHelper :20 - logger is configured
+2020-05-29 13:05:692 INFO  LoggerHelper :21 - logger is configured
+2020-05-29 13:05:692 INFO  LoggerHelper :23 - logger is configured
+2020-05-29 13:05:450 INFO  LoggerHelper :20 - logger is configured
+2020-05-29 13:05:450 INFO  LoggerHelper :21 - logger is configured
+2020-05-29 13:05:450 INFO  LoggerHelper :23 - logger is configured
+2020-05-29 13:05:319 INFO  LoggerHelper :20 - logger is configured
+2020-05-29 13:05:327 INFO  LoggerHelper :21 - logger is configured
+2020-05-29 13:05:327 INFO  LoggerHelper :23 - logger is configured
+2020-05-29 13:05:157 INFO  LoggerHelper :20 - logger is configured
+2020-05-29 13:05:165 INFO  LoggerHelper :21 - logger is configured
+2020-05-29 13:05:165 INFO  LoggerHelper :23 - logger is configured
+2020-05-29 13:05:400 INFO  LoggerHelper :20 - logger is configured
+2020-05-29 13:05:400 INFO  LoggerHelper :21 - logger is configured
+2020-05-29 13:05:400 INFO  LoggerHelper :23 - logger is configured
+2020-05-29 13:05:00 INFO  LoggerHelper :20 - logger is configured
+2020-05-29 13:05:15 INFO  LoggerHelper :21 - logger is configured
+2020-05-29 13:05:15 INFO  LoggerHelper :23 - logger is configured
+2020-05-29 13:05:112 INFO  LoggerHelper :20 - logger is configured
+2020-05-29 13:05:112 INFO  LoggerHelper :21 - logger is configured
+2020-05-29 13:05:112 INFO  LoggerHelper :23 - logger is configured
+2020-05-29 13:05:874 INFO  LoggerHelper :20 - logger is configured
+2020-05-29 13:05:882 INFO  LoggerHelper :21 - logger is configured
+2020-05-29 13:05:882 INFO  LoggerHelper :23 - logger is configured
+2020-05-29 14:05:597 INFO  LoggerHelper :22 - logger is configured
+2020-05-29 14:05:613 INFO  LoggerHelper :23 - logger is configured
+2020-05-29 14:05:613 INFO  LoggerHelper :25 - logger is configured
+2020-05-31 14:05:607 INFO  WaitHelper :136 - Waiting for page to load for: SECONDS
+2020-05-31 14:05:639 INFO  WaitHelper :138 - page is loaded
+2020-05-31 14:05:08 INFO  WaitHelper :136 - Waiting for page to load for: SECONDS
+2020-05-31 14:05:25 INFO  WaitHelper :138 - page is loaded
+2020-05-31 14:05:693 INFO  WaitHelper :136 - Waiting for page to load for: 3SECONDS
+2020-05-31 14:05:711 INFO  WaitHelper :138 - page is loaded
+2020-05-31 14:05:423 INFO  WaitHelper :136 - Waiting for page to load for: 3SECONDS
+2020-05-31 14:05:441 INFO  WaitHelper :138 - page is loaded
+2020-05-31 14:05:707 INFO  WaitHelper :136 - Waiting for page to load for: 3 SECONDS
+2020-05-31 14:05:745 INFO  WaitHelper :138 - page is loaded
+2020-06-01 14:06:575 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 1 times.
+2020-06-01 14:06:588 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 2 times.
+2020-06-01 14:06:590 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 3 times.
+2020-06-01 14:06:595 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 1 times.
+2020-06-01 14:06:599 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 2 times.
+2020-06-01 14:06:602 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 3 times.
+2020-06-01 14:06:340 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 1 times.
+2020-06-01 14:06:345 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 2 times.
+2020-06-01 14:06:348 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 3 times.
+2020-06-01 14:06:364 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 1 times.
+2020-06-01 14:06:366 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 2 times.
+2020-06-01 14:06:369 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 3 times.
+2020-06-01 14:06:473 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 1 times.
+2020-06-01 14:06:478 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 2 times.
+2020-06-01 14:06:480 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 3 times.
+2020-06-01 14:06:499 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 1 times.
+2020-06-01 14:06:502 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 2 times.
+2020-06-01 14:06:505 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 3 times.
+2020-06-01 19:06:687 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 1 times.
+2020-06-01 19:06:696 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 2 times.
+2020-06-01 19:06:696 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 3 times.
+2020-06-01 19:06:712 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 1 times.
+2020-06-01 19:06:712 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 2 times.
+2020-06-01 19:06:712 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 3 times.
+2020-06-01 20:06:260 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 1 times.
+2020-06-01 20:06:276 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 2 times.
+2020-06-01 20:06:276 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 3 times.
+2020-06-01 20:06:316 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 1 times.
+2020-06-01 20:06:324 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 2 times.
+2020-06-01 20:06:332 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 3 times.
+2020-06-01 20:06:563 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 1 times.
+2020-06-01 20:06:575 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 2 times.
+2020-06-01 20:06:583 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 3 times.
+2020-06-01 20:06:615 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 1 times.
+2020-06-01 20:06:623 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 2 times.
+2020-06-01 20:06:631 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 3 times.
+2020-06-01 20:06:433 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 1 times.
+2020-06-01 20:06:443 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 2 times.
+2020-06-01 20:06:449 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 3 times.
+2020-06-01 20:06:486 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 1 times.
+2020-06-01 20:06:493 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 2 times.
+2020-06-01 20:06:500 INFO  Retry :18 - Retrying test testLogin with status FAILURE for the 3 times.
+2020-06-02 19:06:30 INFO  Retry :18 - Retrying test testLoginB with status FAILURE for the 1 times.
+2020-06-02 19:06:53 INFO  Retry :18 - Retrying test testLoginB with status FAILURE for the 2 times.
+2020-06-02 19:06:79 INFO  Retry :18 - Retrying test testLoginC with status FAILURE for the 1 times.
+2020-06-02 19:06:85 INFO  Retry :18 - Retrying test testLoginC with status FAILURE for the 2 times.
+2020-06-02 19:06:68 INFO  Retry :18 - Retrying test testLoginB with status FAILURE for the 1 times.
+2020-06-02 19:06:74 INFO  Retry :18 - Retrying test testLoginB with status FAILURE for the 2 times.
+2020-06-02 19:06:86 INFO  Retry :18 - Retrying test testLoginC with status FAILURE for the 1 times.
+2020-06-02 19:06:88 INFO  Retry :18 - Retrying test testLoginC with status FAILURE for the 2 times.
+2020-06-02 19:06:91 INFO  Retry :18 - Retrying test testLoginC1 with status FAILURE for the 1 times.
+2020-06-02 19:06:93 INFO  Retry :18 - Retrying test testLoginC1 with status FAILURE for the 2 times.
+2020-06-02 19:06:96 INFO  Retry :18 - Retrying test testLoginC1 with status FAILURE for the 3 times.
+2020-06-04 13:06:344 INFO  ExcelHelper :103 - result updated..
+2020-06-04 13:06:405 INFO  ExcelHelper :103 - result updated..
+2020-06-04 13:06:453 INFO  ExcelHelper :103 - result updated..
+2020-06-04 13:06:281 INFO  ExcelHelper :103 - result updated..
+2020-06-04 13:06:868 INFO  ExcelHelper :103 - result updated..
+2020-06-04 13:06:940 INFO  ExcelHelper :103 - result updated..
+2020-06-04 19:06:858 INFO  ExcelHelper :103 - result updated..
+2020-06-04 19:06:937 INFO  ExcelHelper :103 - result updated..
+2020-06-04 19:06:983 INFO  ExcelHelper :103 - result updated..
+2020-06-04 19:06:40 INFO  ExcelHelper :103 - result updated..
+2020-06-04 19:06:134 INFO  ExcelHelper :103 - result updated..
+2020-06-04 19:06:181 INFO  ExcelHelper :103 - result updated..
+2020-06-04 20:06:567 INFO  WaitHelper :136 - Waiting for page to load for: 3 SECONDS
+2020-06-04 20:06:641 INFO  WaitHelper :138 - page is loaded
+2020-06-04 20:06:49 INFO  WaitHelper :136 - Waiting for page to load for: 3 SECONDS
+2020-06-04 20:06:67 INFO  WaitHelper :138 - page is loaded
+2020-06-04 20:06:597 INFO  WaitHelper :136 - Waiting for page to load for: 5 SECONDS
+2020-06-04 20:06:658 INFO  WaitHelper :138 - page is loaded
+2020-06-04 20:06:252 INFO  WaitHelper :136 - Waiting for page to load for: 5 SECONDS
+2020-06-04 20:06:271 INFO  WaitHelper :138 - page is loaded
+2020-06-05 13:06:985 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 13:06:795 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 13:06:492 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 13:06:500 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 13:06:524 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 13:06:524 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 13:06:698 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 13:06:714 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 13:06:738 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 13:06:738 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 13:06:390 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 13:06:12 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 13:06:102 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 13:06:174 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 13:06:422 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 13:06:889 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 13:06:995 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 13:06:67 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 13:06:242 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 13:06:691 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 13:06:795 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 13:06:875 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 13:06:940 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 13:06:04 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 13:06:76 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 13:06:148 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 13:06:826 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 13:06:296 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 13:06:397 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 13:06:464 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 13:06:521 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 13:06:580 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 13:06:637 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 13:06:697 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 18:06:329 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 18:06:583 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 18:06:645 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 18:06:699 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 18:06:730 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 18:06:745 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 18:06:783 INFO  AssertionHelper :18 - making script PASS..
+2020-06-05 18:06:814 INFO  AssertionHelper :28 - making script FAIL..
+2020-06-05 19:06:306 INFO  TestBase :95 - Initialize Web driver: 1465346452
+2020-06-05 19:06:310 INFO  WaitHelper :33 - Implicit wait has been set to: 30
+2020-06-05 19:06:326 INFO  WaitHelper :136 - Waiting for page to load for: 30 SECONDS
+2020-06-05 19:06:339 INFO  WaitHelper :138 - page is loaded
+2020-06-05 19:06:339 INFO  TestBase :95 - Initialize Web driver: 1465346452
+2020-06-05 19:06:344 INFO  WaitHelper :33 - Implicit wait has been set to: 30
+2020-06-05 19:06:359 INFO  WaitHelper :136 - Waiting for page to load for: 30 SECONDS
+2020-06-05 19:06:371 INFO  WaitHelper :138 - page is loaded
+2020-06-05 19:06:832 INFO  TestBase :95 - Initialize Web driver: 1465346452
+2020-06-05 19:06:835 INFO  WaitHelper :33 - Implicit wait has been set to: 30
+2020-06-05 19:06:852 INFO  WaitHelper :136 - Waiting for page to load for: 30 SECONDS
+2020-06-05 19:06:864 INFO  WaitHelper :138 - page is loaded
+2020-06-05 19:06:665 INFO  TestBase :95 - Initialize Web driver: 1465346452
+2020-06-05 19:06:669 INFO  WaitHelper :33 - Implicit wait has been set to: 30
+2020-06-05 19:06:684 INFO  WaitHelper :136 - Waiting for page to load for: 30 SECONDS
+2020-06-05 19:06:696 INFO  WaitHelper :138 - page is loaded
+2020-06-05 19:06:729 INFO  TestBase :95 - Initialize Web driver: 1465346452
+2020-06-05 19:06:733 INFO  WaitHelper :33 - Implicit wait has been set to: 30
+2020-06-05 19:06:747 INFO  WaitHelper :136 - Waiting for page to load for: 30 SECONDS
+2020-06-05 19:06:761 INFO  WaitHelper :138 - page is loaded
+2020-06-05 19:06:351 INFO  TestBase :95 - Initialize Web driver: 1041326823
+2020-06-05 19:06:355 INFO  WaitHelper :33 - Implicit wait has been set to: 30
+2020-06-05 19:06:371 INFO  WaitHelper :136 - Waiting for page to load for: 30 SECONDS
+2020-06-05 19:06:383 INFO  WaitHelper :138 - page is loaded
+2020-06-06 13:06:941 INFO  TestBase :122 - Initialize Web driver: 551016187
+2020-06-06 13:06:965 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-06 13:06:12 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-06 13:06:44 INFO  WaitHelper :138 - page is loaded
+2020-06-06 13:06:717 INFO  TestBase :122 - Initialize Web driver: 551016187
+2020-06-06 13:06:723 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-06 13:06:740 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-06 13:06:756 INFO  WaitHelper :138 - page is loaded
+2020-06-06 13:06:131 INFO  TestBase :122 - Initialize Web driver: 551016187
+2020-06-06 13:06:137 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-06 13:06:154 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-06 13:06:170 INFO  WaitHelper :138 - page is loaded
+2020-06-06 13:06:383 INFO  TestBase :122 - Initialize Web driver: 551016187
+2020-06-06 13:06:396 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-06 13:06:414 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-06 13:06:429 INFO  WaitHelper :138 - page is loaded
+2020-06-06 17:06:255 INFO  TestBase :121 - Initialize Web driver: 551016187
+2020-06-06 17:06:269 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-06 17:06:300 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-06 17:06:331 INFO  WaitHelper :138 - page is loaded
+2020-06-06 17:06:263 INFO  TestBase :121 - Initialize Web driver: 551016187
+2020-06-06 17:06:277 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-06 17:06:293 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-06 17:06:309 INFO  WaitHelper :138 - page is loaded
+2020-06-07 12:06:668 INFO  TestBase :126 - Initialize Web driver: 885910946
+2020-06-07 12:06:753 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 12:06:828 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 12:06:841 INFO  WaitHelper :138 - page is loaded
+2020-06-07 12:06:243 INFO  TestBase :126 - Initialize Web driver: 885910946
+2020-06-07 12:06:246 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 12:06:262 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 12:06:274 INFO  WaitHelper :138 - page is loaded
+2020-06-07 12:06:748 INFO  TestBase :126 - Initialize Web driver: 885910946
+2020-06-07 12:06:752 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 12:06:768 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 12:06:781 INFO  WaitHelper :138 - page is loaded
+2020-06-07 12:06:751 INFO  TestBase :126 - Initialize Web driver: 885910946
+2020-06-07 12:06:754 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 12:06:770 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 12:06:782 INFO  WaitHelper :138 - page is loaded
+2020-06-07 12:06:845 INFO  TestBase :126 - Initialize Web driver: 885910946
+2020-06-07 12:06:852 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 12:06:876 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 12:06:901 INFO  WaitHelper :138 - page is loaded
+2020-06-07 12:06:636 INFO  TestBase :126 - Initialize Web driver: 885910946
+2020-06-07 12:06:642 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 12:06:659 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 12:06:675 INFO  WaitHelper :138 - page is loaded
+2020-06-07 12:06:315 INFO  ExtentListener :33 - A Test Started..
+2020-06-07 12:06:350 INFO  ExtentListener :57 - testLoginA Test Started..
+2020-06-07 12:06:380 INFO  ExtentListener :65 - testLoginA Test Passed..
+2020-06-07 12:06:191 INFO  ExtentListener :33 - A Test Started..
+2020-06-07 12:06:223 INFO  ExtentListener :57 - testLoginA Test Started..
+2020-06-07 12:06:223 INFO  ExtentListener :65 - testLoginA Test Passed..
+2020-06-07 12:06:247 INFO  ExtentListener :24 - A Test Finished..
+2020-06-07 12:06:247 INFO  ExtentListener :33 - B Test Started..
+2020-06-07 12:06:255 INFO  ExtentListener :57 - testLoginB Test Started..
+2020-06-07 12:06:263 ERROR ExtentListener :44 - testLoginB Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 12:06:281 INFO  ExtentListener :24 - B Test Finished..
+2020-06-07 12:06:281 INFO  ExtentListener :33 - C Test Started..
+2020-06-07 12:06:281 INFO  ExtentListener :57 - testLoginC Test Started..
+2020-06-07 12:06:281 ERROR ExtentListener :44 - testLoginC Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 12:06:292 INFO  ExtentListener :57 - testLoginC1 Test Started..
+2020-06-07 12:06:292 ERROR ExtentListener :44 - testLoginC1 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 12:06:310 INFO  ExtentListener :24 - C Test Finished..
+2020-06-07 12:06:310 INFO  ExtentListener :33 - TestScreenShot Test Started..
+2020-06-07 12:06:83 INFO  TestBase :126 - Initialize Web driver: 527804008
+2020-06-07 12:06:86 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 12:06:104 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 12:06:120 INFO  WaitHelper :138 - page is loaded
+2020-06-07 12:06:310 INFO  ExtentListener :57 - testScreen Test Started..
+2020-06-07 12:06:841 INFO  ExtentListener :65 - testScreen Test Passed..
+2020-06-07 12:06:889 INFO  ExtentListener :24 - TestScreenShot Test Finished..
+2020-06-07 12:06:785 INFO  ExtentListener :33 - A Test Started..
+2020-06-07 12:06:801 INFO  ExtentListener :57 - testLoginA Test Started..
+2020-06-07 12:06:809 INFO  ExtentListener :65 - testLoginA Test Passed..
+2020-06-07 12:06:809 INFO  ExtentListener :24 - A Test Finished..
+2020-06-07 12:06:809 INFO  ExtentListener :33 - B Test Started..
+2020-06-07 12:06:809 INFO  ExtentListener :57 - testLoginB Test Started..
+2020-06-07 12:06:825 ERROR ExtentListener :44 - testLoginB Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 12:06:831 INFO  ExtentListener :24 - B Test Finished..
+2020-06-07 12:06:831 INFO  ExtentListener :33 - C Test Started..
+2020-06-07 12:06:831 INFO  ExtentListener :57 - testLoginC Test Started..
+2020-06-07 12:06:839 ERROR ExtentListener :44 - testLoginC Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 12:06:839 INFO  ExtentListener :57 - testLoginC1 Test Started..
+2020-06-07 12:06:839 ERROR ExtentListener :44 - testLoginC1 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 12:06:847 INFO  ExtentListener :24 - C Test Finished..
+2020-06-07 12:06:847 INFO  ExtentListener :33 - TestScreenShot Test Started..
+2020-06-07 12:06:159 INFO  TestBase :126 - Initialize Web driver: 527804008
+2020-06-07 12:06:164 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 12:06:181 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 12:06:197 INFO  WaitHelper :138 - page is loaded
+2020-06-07 12:06:369 INFO  ExtentListener :57 - testScreen Test Started..
+2020-06-07 12:06:873 INFO  ExtentListener :65 - testScreen Test Passed..
+2020-06-07 12:06:929 INFO  ExtentListener :24 - TestScreenShot Test Finished..
+2020-06-07 13:06:481 INFO  ExtentListener :33 - A Test Started..
+2020-06-07 13:06:497 INFO  ExtentListener :57 - testLoginA Test Started..
+2020-06-07 13:06:505 INFO  ExtentListener :65 - testLoginA Test Passed..
+2020-06-07 13:06:513 INFO  ExtentListener :24 - A Test Finished..
+2020-06-07 13:06:522 INFO  ExtentListener :33 - B Test Started..
+2020-06-07 13:06:523 INFO  ExtentListener :57 - testLoginB Test Started..
+2020-06-07 13:06:523 ERROR ExtentListener :44 - testLoginB Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 13:06:531 INFO  ExtentListener :24 - B Test Finished..
+2020-06-07 13:06:531 INFO  ExtentListener :33 - C Test Started..
+2020-06-07 13:06:531 INFO  ExtentListener :57 - testLoginC Test Started..
+2020-06-07 13:06:539 ERROR ExtentListener :44 - testLoginC Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 13:06:539 INFO  ExtentListener :57 - testLoginC1 Test Started..
+2020-06-07 13:06:539 ERROR ExtentListener :44 - testLoginC1 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 13:06:547 INFO  ExtentListener :24 - C Test Finished..
+2020-06-07 13:06:547 INFO  ExtentListener :33 - TestScreenShot Test Started..
+2020-06-07 13:06:994 INFO  TestBase :126 - Initialize Web driver: 527804008
+2020-06-07 13:06:998 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:14 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:30 INFO  WaitHelper :138 - page is loaded
+2020-06-07 13:06:181 INFO  ExtentListener :57 - testScreen Test Started..
+2020-06-07 13:06:122 INFO  ExtentListener :65 - testScreen Test Passed..
+2020-06-07 13:06:378 INFO  ExtentListener :24 - TestScreenShot Test Finished..
+2020-06-07 13:06:499 INFO  ExtentListener :33 - A Test Started..
+2020-06-07 13:06:519 INFO  ExtentListener :57 - testLoginA Test Started..
+2020-06-07 13:06:519 INFO  ExtentListener :65 - testLoginA Test Passed..
+2020-06-07 13:06:535 INFO  ExtentListener :24 - A Test Finished..
+2020-06-07 13:06:535 INFO  ExtentListener :33 - B Test Started..
+2020-06-07 13:06:535 INFO  ExtentListener :57 - testLoginB Test Started..
+2020-06-07 13:06:535 ERROR ExtentListener :44 - testLoginB Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 13:06:543 INFO  ExtentListener :24 - B Test Finished..
+2020-06-07 13:06:551 INFO  ExtentListener :33 - C Test Started..
+2020-06-07 13:06:551 INFO  ExtentListener :57 - testLoginC Test Started..
+2020-06-07 13:06:551 ERROR ExtentListener :44 - testLoginC Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 13:06:551 INFO  ExtentListener :57 - testLoginC1 Test Started..
+2020-06-07 13:06:551 ERROR ExtentListener :44 - testLoginC1 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 13:06:559 INFO  ExtentListener :24 - C Test Finished..
+2020-06-07 13:06:559 INFO  ExtentListener :33 - TestScreenShot Test Started..
+2020-06-07 13:06:829 INFO  TestBase :128 - Initialize Web driver: 527804008
+2020-06-07 13:06:833 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:850 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:866 INFO  WaitHelper :138 - page is loaded
+2020-06-07 13:06:32 INFO  ExtentListener :57 - testScreen Test Started..
+2020-06-07 13:06:931 INFO  ExtentListener :65 - testScreen Test Passed..
+2020-06-07 13:06:987 INFO  ExtentListener :24 - TestScreenShot Test Finished..
+2020-06-07 13:06:485 INFO  ExtentListener :33 - TestScreenShot Test Started..
+2020-06-07 13:06:346 INFO  TestBase :129 - Initialize Web driver: 728943498
+2020-06-07 13:06:350 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:367 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:383 INFO  WaitHelper :138 - page is loaded
+2020-06-07 13:06:570 INFO  ExtentListener :57 - testScreen Test Started..
+2020-06-07 13:06:550 INFO  ExtentListener :65 - testScreen Test Passed..
+2020-06-07 13:06:624 INFO  ExtentListener :24 - TestScreenShot Test Finished..
+2020-06-07 13:06:203 INFO  ExtentListener :33 - TestScreenShot Test Started..
+2020-06-07 13:06:74 INFO  TestBase :130 - Initialize Web driver: 728943498
+2020-06-07 13:06:79 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:100 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:112 INFO  WaitHelper :138 - page is loaded
+2020-06-07 13:06:449 INFO  ExtentListener :57 - testScreen Test Started..
+2020-06-07 13:06:326 INFO  ExtentListener :65 - testScreen Test Passed..
+2020-06-07 13:06:391 INFO  ExtentListener :24 - TestScreenShot Test Finished..
+2020-06-07 13:06:678 INFO  ExtentListener :33 - A Test Started..
+2020-06-07 13:06:548 INFO  TestBase :131 - Initialize Web driver: 1221027335
+2020-06-07 13:06:551 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:579 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:603 INFO  WaitHelper :138 - page is loaded
+2020-06-07 13:06:786 INFO  ExtentListener :57 - testLoginA Test Started..
+2020-06-07 13:06:789 INFO  ExtentListener :65 - testLoginA Test Passed..
+2020-06-07 13:06:324 INFO  ExtentListener :24 - A Test Finished..
+2020-06-07 13:06:324 INFO  ExtentListener :33 - B Test Started..
+2020-06-07 13:06:525 INFO  TestBase :131 - Initialize Web driver: 67730604
+2020-06-07 13:06:528 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:552 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:576 INFO  WaitHelper :138 - page is loaded
+2020-06-07 13:06:730 INFO  ExtentListener :57 - testLoginB Test Started..
+2020-06-07 13:06:735 ERROR ExtentListener :44 - testLoginB Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 13:06:63 INFO  ExtentListener :24 - B Test Finished..
+2020-06-07 13:06:63 INFO  ExtentListener :33 - C Test Started..
+2020-06-07 13:06:459 INFO  TestBase :131 - Initialize Web driver: 1930837320
+2020-06-07 13:06:463 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:487 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:519 INFO  WaitHelper :138 - page is loaded
+2020-06-07 13:06:709 INFO  ExtentListener :57 - testLoginC Test Started..
+2020-06-07 13:06:714 ERROR ExtentListener :44 - testLoginC Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 13:06:283 INFO  ExtentListener :57 - testLoginC1 Test Started..
+2020-06-07 13:06:283 ERROR ExtentListener :44 - testLoginC1 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 13:06:783 INFO  ExtentListener :24 - C Test Finished..
+2020-06-07 13:06:788 INFO  ExtentListener :33 - TestScreenShot Test Started..
+2020-06-07 13:06:379 INFO  TestBase :131 - Initialize Web driver: 593768538
+2020-06-07 13:06:380 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:414 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:453 INFO  WaitHelper :138 - page is loaded
+2020-06-07 13:06:613 INFO  ExtentListener :57 - testScreen Test Started..
+2020-06-07 13:06:311 INFO  ExtentListener :65 - testScreen Test Passed..
+2020-06-07 13:06:423 INFO  ExtentListener :24 - TestScreenShot Test Finished..
+2020-06-07 13:06:862 INFO  ExtentListener :33 - A Test Started..
+2020-06-07 13:06:650 INFO  TestBase :131 - Initialize Web driver: 1221027335
+2020-06-07 13:06:652 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:676 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:708 INFO  WaitHelper :138 - page is loaded
+2020-06-07 13:06:941 INFO  ExtentListener :57 - testLoginA Test Started..
+2020-06-07 13:06:945 INFO  ExtentListener :65 - testLoginA Test Passed..
+2020-06-07 13:06:808 INFO  ExtentListener :24 - A Test Finished..
+2020-06-07 13:06:824 INFO  ExtentListener :33 - B Test Started..
+2020-06-07 13:06:468 INFO  TestBase :131 - Initialize Web driver: 67730604
+2020-06-07 13:06:470 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:494 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:518 INFO  WaitHelper :138 - page is loaded
+2020-06-07 13:06:686 INFO  ExtentListener :57 - testLoginB Test Started..
+2020-06-07 13:06:693 ERROR ExtentListener :44 - testLoginB Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 13:06:158 INFO  ExtentListener :24 - B Test Finished..
+2020-06-07 13:06:158 INFO  ExtentListener :33 - C Test Started..
+2020-06-07 13:06:254 INFO  TestBase :131 - Initialize Web driver: 1930837320
+2020-06-07 13:06:258 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:282 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:306 INFO  WaitHelper :138 - page is loaded
+2020-06-07 13:06:481 INFO  ExtentListener :57 - testLoginC Test Started..
+2020-06-07 13:06:491 ERROR ExtentListener :44 - testLoginC Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 13:06:308 INFO  ExtentListener :57 - testLoginC1 Test Started..
+2020-06-07 13:06:308 ERROR ExtentListener :44 - testLoginC1 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 13:06:710 INFO  ExtentListener :24 - C Test Finished..
+2020-06-07 13:06:710 INFO  ExtentListener :33 - TestScreenShot Test Started..
+2020-06-07 13:06:338 INFO  TestBase :131 - Initialize Web driver: 593768538
+2020-06-07 13:06:341 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:365 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:389 INFO  WaitHelper :138 - page is loaded
+2020-06-07 13:06:565 INFO  ExtentListener :57 - testScreen Test Started..
+2020-06-07 13:06:605 INFO  ExtentListener :65 - testScreen Test Passed..
+2020-06-07 13:06:705 INFO  ExtentListener :24 - TestScreenShot Test Finished..
+2020-06-07 13:06:483 INFO  ExtentListener :33 - A Test Started..
+2020-06-07 13:06:704 INFO  TestBase :131 - Initialize Web driver: 1221027335
+2020-06-07 13:06:713 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:737 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:765 INFO  WaitHelper :138 - page is loaded
+2020-06-07 13:06:993 INFO  ExtentListener :57 - testLoginA Test Started..
+2020-06-07 13:06:997 INFO  ExtentListener :65 - testLoginA Test Passed..
+2020-06-07 13:06:876 INFO  ExtentListener :24 - A Test Finished..
+2020-06-07 13:06:876 INFO  ExtentListener :33 - B Test Started..
+2020-06-07 13:06:818 INFO  TestBase :131 - Initialize Web driver: 67730604
+2020-06-07 13:06:820 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:844 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:868 INFO  WaitHelper :138 - page is loaded
+2020-06-07 13:06:43 INFO  ExtentListener :57 - testLoginB Test Started..
+2020-06-07 13:06:50 ERROR ExtentListener :44 - testLoginB Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 13:06:523 INFO  ExtentListener :24 - B Test Finished..
+2020-06-07 13:06:523 INFO  ExtentListener :33 - C Test Started..
+2020-06-07 13:06:19 INFO  TestBase :131 - Initialize Web driver: 1930837320
+2020-06-07 13:06:21 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:53 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:85 INFO  WaitHelper :138 - page is loaded
+2020-06-07 13:06:260 INFO  ExtentListener :57 - testLoginC Test Started..
+2020-06-07 13:06:269 ERROR ExtentListener :44 - testLoginC Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 13:06:378 INFO  ExtentListener :24 - C Test Finished..
+2020-06-07 13:06:378 INFO  ExtentListener :33 - TestScreenShot Test Started..
+2020-06-07 13:06:100 INFO  TestBase :131 - Initialize Web driver: 1639765351
+2020-06-07 13:06:102 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:126 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:150 INFO  WaitHelper :138 - page is loaded
+2020-06-07 13:06:323 INFO  ExtentListener :57 - testScreen Test Started..
+2020-06-07 13:06:593 INFO  ExtentListener :65 - testScreen Test Passed..
+2020-06-07 13:06:973 INFO  ExtentListener :24 - TestScreenShot Test Finished..
+2020-06-07 13:06:980 INFO  TestBase :131 - Initialize Web driver: 551016187
+2020-06-07 13:06:986 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:18 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:50 INFO  WaitHelper :138 - page is loaded
+2020-06-07 13:06:979 INFO  TestBase :131 - Initialize Web driver: 551016187
+2020-06-07 13:06:988 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:20 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:44 INFO  WaitHelper :138 - page is loaded
+2020-06-07 13:06:876 INFO  TestBase :131 - Initialize Web driver: 551016187
+2020-06-07 13:06:884 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 13:06:908 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 13:06:948 INFO  WaitHelper :138 - page is loaded
+2020-06-07 14:06:102 INFO  ExtentListener :33 - Test Test Started..
+2020-06-07 14:06:894 INFO  TestBase :131 - Initialize Web driver: 473524237
+2020-06-07 14:06:904 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 14:06:928 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 14:06:952 INFO  WaitHelper :138 - page is loaded
+2020-06-07 14:06:182 INFO  ExtentListener :57 - testLoginB Test Started..
+2020-06-07 14:06:189 ERROR ExtentListener :44 - testLoginB Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 14:06:141 INFO  ExtentListener :57 - testLoginA Test Started..
+2020-06-07 14:06:141 INFO  ExtentListener :65 - testLoginA Test Passed..
+2020-06-07 14:06:149 INFO  TestBase :140 - driver is null..
+2020-06-07 14:06:237 INFO  ExtentListener :57 - testLoginC Test Started..
+2020-06-07 14:06:241 ERROR ExtentListener :44 - testLoginC Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 14:06:241 INFO  TestBase :140 - driver is null..
+2020-06-07 14:06:313 INFO  ExtentListener :57 - testScreen Test Started..
+2020-06-07 14:06:313 ERROR ExtentListener :44 - testScreen Test Failed..java.lang.NullPointerException
+2020-06-07 14:06:321 INFO  TestBase :140 - driver is null..
+2020-06-07 14:06:409 INFO  ExtentListener :24 - Test Test Finished..
+2020-06-07 14:06:435 INFO  ExtentListener :33 - Test Test Started..
+2020-06-07 14:06:234 INFO  TestBase :131 - Initialize Web driver: 473524237
+2020-06-07 14:06:243 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-07 14:06:267 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-07 14:06:291 INFO  WaitHelper :138 - page is loaded
+2020-06-07 14:06:529 INFO  ExtentListener :57 - testLoginB Test Started..
+2020-06-07 14:06:534 ERROR ExtentListener :44 - testLoginB Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 14:06:458 INFO  ExtentListener :57 - testLoginA Test Started..
+2020-06-07 14:06:458 INFO  ExtentListener :65 - testLoginA Test Passed..
+2020-06-07 14:06:458 INFO  TestBase :140 - driver is null..
+2020-06-07 14:06:531 INFO  ExtentListener :57 - testLoginC Test Started..
+2020-06-07 14:06:538 ERROR ExtentListener :44 - testLoginC Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-07 14:06:538 INFO  TestBase :140 - driver is null..
+2020-06-07 14:06:610 INFO  ExtentListener :57 - testScreen Test Started..
+2020-06-07 14:06:610 ERROR ExtentListener :44 - testScreen Test Failed..java.lang.NullPointerException
+2020-06-07 14:06:610 INFO  TestBase :140 - driver is null..
+2020-06-07 14:06:714 INFO  ExtentListener :24 - Test Test Finished..
+2020-06-08 11:06:96 INFO  ExtentListener :33 - A Test Started..
+2020-06-08 11:06:818 INFO  TestBase :131 - Initialize Web driver: 1221027335
+2020-06-08 11:06:862 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-08 11:06:877 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-08 11:06:893 INFO  WaitHelper :138 - page is loaded
+2020-06-08 11:06:63 INFO  ExtentListener :57 - testLoginA Test Started..
+2020-06-08 11:06:67 INFO  ExtentListener :65 - testLoginA Test Passed..
+2020-06-08 11:06:643 INFO  ExtentListener :24 - A Test Finished..
+2020-06-08 11:06:643 INFO  ExtentListener :33 - B Test Started..
+2020-06-08 11:06:720 INFO  TestBase :131 - Initialize Web driver: 67730604
+2020-06-08 11:06:721 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-08 11:06:739 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-08 11:06:770 INFO  WaitHelper :138 - page is loaded
+2020-06-08 11:06:972 INFO  ExtentListener :57 - testLoginB Test Started..
+2020-06-08 11:06:975 ERROR ExtentListener :44 - testLoginB Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-08 11:06:342 INFO  ExtentListener :24 - B Test Finished..
+2020-06-08 11:06:342 INFO  ExtentListener :33 - C Test Started..
+2020-06-08 11:06:40 INFO  TestBase :131 - Initialize Web driver: 1930837320
+2020-06-08 11:06:42 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-08 11:06:60 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-08 11:06:75 INFO  WaitHelper :138 - page is loaded
+2020-06-08 11:06:250 INFO  ExtentListener :57 - testLoginC Test Started..
+2020-06-08 11:06:264 ERROR ExtentListener :44 - testLoginC Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-08 11:06:639 INFO  ExtentListener :24 - C Test Finished..
+2020-06-08 11:06:639 INFO  ExtentListener :33 - TestScreenShot Test Started..
+2020-06-08 11:06:646 INFO  TestBase :131 - Initialize Web driver: 1639765351
+2020-06-08 11:06:647 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-08 11:06:664 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-08 11:06:680 INFO  WaitHelper :138 - page is loaded
+2020-06-08 11:06:887 INFO  ExtentListener :57 - testScreen Test Started..
+2020-06-08 11:06:218 INFO  ExtentListener :65 - testScreen Test Passed..
+2020-06-08 11:06:662 INFO  ExtentListener :24 - TestScreenShot Test Finished..
+2020-06-08 12:06:889 INFO  TestBase :139 - Initialize Web driver: 1324843695
+2020-06-08 12:06:893 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-08 12:06:908 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-08 12:06:921 INFO  WaitHelper :138 - page is loaded
+2020-06-08 12:06:898 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-08 20:06:274 INFO  DataBaseHelper :52 - Driver not found.. java.lang.ClassNotFoundException: 
+2020-06-08 20:06:276 INFO  DataBaseHelper :66 - Executing Query:  select sal from emp where empno =7934
+2020-06-08 20:06:58 ERROR DataBaseHelper :49 - Failed to create data base connection com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+2020-06-08 20:06:60 INFO  DataBaseHelper :66 - Executing Query:  select sal from emp where empno =7934
+2020-06-09 20:06:67 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-09 20:06:159 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-09 20:06:190 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-09 20:06:221 INFO  WaitHelper :138 - page is loaded
+2020-06-09 20:06:526 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-09 20:06:540 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-09 20:06:572 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-09 20:06:596 INFO  WaitHelper :138 - page is loaded
+2020-06-09 20:06:292 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-09 20:06:309 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-09 20:06:341 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-09 20:06:372 INFO  WaitHelper :138 - page is loaded
+2020-06-09 20:06:598 INFO  WindowHelper :68 - All child windows closed and switched to default window
+2020-06-09 20:06:183 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-09 20:06:189 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-09 20:06:221 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-09 20:06:253 INFO  WaitHelper :138 - page is loaded
+2020-06-09 20:06:96 INFO  WindowHelper :66 - All child windows closed and switched to default window
+2020-06-09 20:06:499 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-09 20:06:505 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-09 20:06:529 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-09 20:06:561 INFO  WaitHelper :138 - page is loaded
+2020-06-09 20:06:37 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-09 20:06:51 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-09 20:06:84 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-09 20:06:108 INFO  WaitHelper :138 - page is loaded
+2020-06-09 20:06:743 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-09 20:06:750 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-09 20:06:782 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-09 20:06:806 INFO  WaitHelper :138 - page is loaded
+2020-06-09 20:06:369 INFO  WindowHelper :66 - All child windows closed and switched to default window
+2020-06-09 20:06:969 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-09 20:06:982 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-09 20:06:13 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-09 20:06:45 INFO  WaitHelper :138 - page is loaded
+2020-06-09 20:06:272 INFO  WindowHelper :66 - All child windows closed and switched to default window
+2020-06-09 20:06:765 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-09 20:06:773 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-09 20:06:797 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-09 20:06:821 INFO  WaitHelper :138 - page is loaded
+2020-06-09 20:06:502 INFO  WindowHelper :66 - All child windows closed and switched to default window
+2020-06-09 20:06:982 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-09 20:06:991 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-09 20:06:23 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-09 20:06:55 INFO  WaitHelper :138 - page is loaded
+2020-06-09 20:06:480 INFO  WindowHelper :66 - All child windows closed and switched to default window
+2020-06-09 20:06:983 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-09 20:06:990 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-09 20:06:22 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-09 20:06:46 INFO  WaitHelper :138 - page is loaded
+2020-06-09 20:06:127 INFO  WindowHelper :66 - All child windows closed and switched to default window
+2020-06-09 20:06:965 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-09 20:06:979 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-09 20:06:11 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-09 20:06:42 INFO  WaitHelper :138 - page is loaded
+2020-06-09 20:06:896 INFO  WindowHelper :66 - All child windows closed and switched to default window
+2020-06-09 20:06:975 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-09 20:06:984 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-09 20:06:12 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-09 20:06:36 INFO  WaitHelper :138 - page is loaded
+2020-06-09 20:06:398 INFO  WindowHelper :35 - switch to: 1 window
+2020-06-09 20:06:560 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-09 20:06:566 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-09 20:06:590 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-09 20:06:614 INFO  WaitHelper :138 - page is loaded
+2020-06-09 20:06:686 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-09 20:06:693 INFO  WaitHelper :33 - Implicit wait has been set to: 120
+2020-06-09 20:06:723 INFO  WaitHelper :136 - Waiting for page to load for: 100 SECONDS
+2020-06-09 20:06:746 INFO  WaitHelper :138 - page is loaded
+2020-06-09 20:06:921 INFO  WindowHelper :66 - All child windows closed and switched to default window
+2020-06-10 19:06:145 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 19:06:742 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 19:06:720 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 19:06:197 INFO  TestBase :139 - Initialize Web driver: 831654622
+2020-06-10 19:06:199 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 19:06:199 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-10 19:06:216 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-10 19:06:230 INFO  WaitHelper :139 - page is loaded
+2020-06-10 19:06:371 INFO  LoginPage :56 - clicked on sign in link...
+2020-06-10 19:06:881 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 19:06:855 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 19:06:855 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-10 19:06:855 INFO  TestBase :148 - driver is null..
+2020-06-10 19:06:737 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 19:06:822 INFO  TestBase :139 - Initialize Web driver: 831654622
+2020-06-10 19:06:832 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 19:06:833 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-10 19:06:850 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-10 19:06:866 INFO  WaitHelper :139 - page is loaded
+2020-06-10 19:06:86 INFO  LoginPage :63 - clicked on sign in link...
+2020-06-10 19:06:639 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 19:06:945 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 19:06:208 INFO  TestBase :139 - Initialize Web driver: 831654622
+2020-06-10 19:06:210 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 19:06:210 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-10 19:06:225 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-10 19:06:238 INFO  WaitHelper :139 - page is loaded
+2020-06-10 19:06:723 INFO  LoginPage :63 - clicked on sign in link...
+2020-06-10 20:06:511 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:602 INFO  TestBase :139 - Initialize Web driver: 831654622
+2020-06-10 20:06:606 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:607 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-10 20:06:624 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-10 20:06:640 INFO  WaitHelper :139 - page is loaded
+2020-06-10 20:06:724 INFO  LoginPage :63 - clicked on sign in link...
+2020-06-10 20:06:627 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:311 INFO  TestBase :139 - Initialize Web driver: 831654622
+2020-06-10 20:06:322 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:322 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-10 20:06:353 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-10 20:06:378 INFO  WaitHelper :139 - page is loaded
+2020-06-10 20:06:116 INFO  LoginPage :63 - clicked on sign in link...
+2020-06-10 20:06:377 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:358 INFO  TestBase :139 - Initialize Web driver: 831654622
+2020-06-10 20:06:372 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:372 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-10 20:06:389 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-10 20:06:414 INFO  WaitHelper :139 - page is loaded
+2020-06-10 20:06:222 INFO  LoginPage :63 - clicked on sign in link...
+2020-06-10 20:06:359 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:404 INFO  TestBase :139 - Initialize Web driver: 831654622
+2020-06-10 20:06:415 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:416 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-10 20:06:434 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-10 20:06:449 INFO  WaitHelper :139 - page is loaded
+2020-06-10 20:06:399 INFO  LoginPage :63 - clicked on sign in link...
+2020-06-10 20:06:240 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-10 20:06:257 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:257 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-10 20:06:290 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-10 20:06:322 INFO  WaitHelper :139 - page is loaded
+2020-06-10 20:06:866 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-10 20:06:880 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:880 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-10 20:06:907 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-10 20:06:923 INFO  WaitHelper :139 - page is loaded
+2020-06-10 20:06:211 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-10 20:06:224 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:224 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-10 20:06:255 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-10 20:06:287 INFO  WaitHelper :139 - page is loaded
+2020-06-10 20:06:743 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:527 INFO  TestBase :139 - Initialize Web driver: 831654622
+2020-06-10 20:06:537 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:537 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-10 20:06:568 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-10 20:06:599 INFO  WaitHelper :139 - page is loaded
+2020-06-10 20:06:515 INFO  LoginPage :63 - clicked on sign in link...
+2020-06-10 20:06:137 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-10 20:06:151 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:151 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-10 20:06:187 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-10 20:06:211 INFO  WaitHelper :139 - page is loaded
+2020-06-10 20:06:405 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-10 20:06:419 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:419 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-10 20:06:436 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-10 20:06:452 INFO  WaitHelper :139 - page is loaded
+2020-06-10 20:06:319 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:319 INFO  LoginPage :68 - entering email address..bspradee@gmail.com
+2020-06-10 20:06:538 INFO  LoginPage :73 - entering password.. [[ChromeDriver: chrome on WINDOWS (ca91fcea6f1ea231040dc1248e2f33c2)] -> xpath: //input[@id='email']]
+2020-06-10 20:06:665 INFO  LoginPage :78 - clicking on submit button..
+2020-06-10 20:06:669 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-10 20:06:669 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-10 20:06:963 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:967 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-10 20:06:314 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-10 20:06:324 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:324 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-10 20:06:356 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-10 20:06:388 INFO  WaitHelper :139 - page is loaded
+2020-06-10 20:06:829 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:829 INFO  LoginPage :68 - entering email address..bspradee@gmail.com
+2020-06-10 20:06:31 INFO  LoginPage :73 - entering password.. [[ChromeDriver: chrome on WINDOWS (09b725c65be35132106a8f4bfcc1f8b3)] -> xpath: //input[@id='email']]
+2020-06-10 20:06:148 INFO  LoginPage :78 - clicking on submit button..
+2020-06-10 20:06:148 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-10 20:06:148 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-10 20:06:311 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-10 20:06:312 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-16 12:06:02 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-16 12:06:19 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-16 12:06:19 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-16 12:06:36 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-16 12:06:49 INFO  WaitHelper :139 - page is loaded
+2020-06-16 12:06:348 INFO  TestBase :189 - navigating to ...http://automationpractice.com/index.php
+2020-06-16 12:06:398 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-16 12:06:430 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (e46fceac581080023232e5b3ed546a82)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-16 12:06:749 INFO  WaitHelper :77 - element is Clickable now
+2020-06-16 12:06:750 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-16 12:06:411 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-16 12:06:409 INFO  LoginPage :71 - entering email address..bspradee@gmail.com
+2020-06-16 12:06:629 INFO  LoginPage :77 - entering password.. [[ChromeDriver: chrome on WINDOWS (e46fceac581080023232e5b3ed546a82)] -> xpath: //input[@id='email']]
+2020-06-16 12:06:761 INFO  LoginPage :84 - clicking on submit button..
+2020-06-16 12:06:764 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-16 12:06:764 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-16 12:06:564 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-16 12:06:565 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-16 12:06:242 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-16 12:06:785 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-16 12:06:789 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-16 12:06:789 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-16 12:06:804 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-16 12:06:818 INFO  WaitHelper :139 - page is loaded
+2020-06-16 12:06:937 INFO  TestBase :189 - navigating to ...http://automationpractice.com/index.php
+2020-06-16 12:06:959 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-16 12:06:986 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (855ffbe35696383fd088888c151dd81e)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-16 12:06:108 INFO  WaitHelper :77 - element is Clickable now
+2020-06-16 12:06:109 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-16 12:06:693 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-16 12:06:498 INFO  LoginPage :71 - entering email address..bspradee@gmail.com
+2020-06-16 12:06:515 INFO  LoginPage :77 - entering password.. shantha@123
+2020-06-16 12:06:632 INFO  LoginPage :84 - clicking on submit button..
+2020-06-16 12:06:634 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-16 12:06:635 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-16 12:06:834 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-16 12:06:835 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-16 12:06:342 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-16 13:06:870 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-16 13:06:873 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-16 13:06:874 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-16 13:06:890 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-16 13:06:902 INFO  WaitHelper :139 - page is loaded
+2020-06-16 13:06:701 INFO  TestBase :189 - navigating to ...http://automationpractice.com/index.php
+2020-06-16 13:06:723 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-16 13:06:756 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (252919be84bf64ec9597e412f407a8bf)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-16 13:06:878 INFO  WaitHelper :77 - element is Clickable now
+2020-06-16 13:06:879 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-16 13:06:437 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-16 13:06:88 INFO  LoginPage :71 - entering email address..bspradee@gmail.com
+2020-06-16 13:06:252 INFO  LoginPage :77 - entering password.. shantha@123
+2020-06-16 13:06:378 INFO  LoginPage :84 - clicking on submit button..
+2020-06-16 13:06:379 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-16 13:06:380 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-16 13:06:863 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-16 13:06:864 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-16 13:06:436 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-16 13:06:814 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-16 13:06:817 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-16 13:06:818 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-16 13:06:834 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-16 13:06:846 INFO  WaitHelper :139 - page is loaded
+2020-06-16 13:06:410 INFO  TestBase :189 - navigating to ...http://automationpractice.com/index.php
+2020-06-16 13:06:430 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-16 13:06:457 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (f4698e9803c2b1a8724c74e81fdcd05d)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-16 13:06:577 INFO  WaitHelper :77 - element is Clickable now
+2020-06-16 13:06:578 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-16 13:06:124 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-16 13:06:314 INFO  LoginPage :97 - entering registration email..1592294920314@gmail.com
+2020-06-16 13:06:539 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-16 13:06:217 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (f4698e9803c2b1a8724c74e81fdcd05d)] -> xpath: //input[@id='id_gender1']] for: 200 seconds
+2020-06-16 13:06:282 INFO  WaitHelper :151 - element is visible now
+2020-06-16 13:06:284 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-16 13:06:301 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (f4698e9803c2b1a8724c74e81fdcd05d)] -> xpath: //input[@id='id_gender1']] for: 200 seconds
+2020-06-16 13:06:347 INFO  WaitHelper :151 - element is visible now
+2020-06-16 13:06:347 INFO  RegistrationPage :104 - selecting mr checkbox..
+2020-06-16 13:06:435 INFO  RegistrationPage :116 - entering first name..firstName
+2020-06-16 13:06:573 INFO  RegistrationPage :122 - entering last name..lastName
+2020-06-16 13:06:698 INFO  RegistrationPage :134 - entering password..password
+2020-06-16 13:06:885 INFO  RegistrationPage :199 - entering addressaddress
+2020-06-16 13:06:811 INFO  RegistrationPage :181 - entering yourAddressFirstNameyourAddressFirstName
+2020-06-16 13:06:984 INFO  RegistrationPage :187 - entering yourAddressLastNameyourAddressLastName
+2020-06-16 13:06:145 INFO  RegistrationPage :193 - entering yourAddressCompanyyourAddressCompany
+2020-06-16 13:06:299 INFO  RegistrationPage :211 - entering yourAddressCityyourAddressCity
+2020-06-16 13:06:443 INFO  RegistrationPage :217 - entering yourAddressStateAlaska
+2020-06-16 13:06:720 INFO  RegistrationPage :223 - entering yourAddressPostCode99501
+2020-06-16 13:06:828 INFO  RegistrationPage :241 - entering mobilephone9845098450
+2020-06-16 13:06:958 INFO  RegistrationPage :247 - entering addressAliasaddressAlias
+2020-06-16 13:06:88 INFO  RegistrationPage :253 - clicking on registraion..
+2020-06-16 13:06:806 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-16 13:06:832 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (f4698e9803c2b1a8724c74e81fdcd05d)] -> xpath: //span[.='Order history and details']] for: 200 seconds
+2020-06-16 13:06:896 INFO  WaitHelper :151 - element is visible now
+2020-06-16 13:06:897 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-16 13:06:861 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-17 12:06:623 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-17 12:06:627 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 12:06:627 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 12:06:643 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 12:06:655 INFO  WaitHelper :139 - page is loaded
+2020-06-17 12:06:843 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 12:06:497 INFO  WaitHelper :148 - waiting for: Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='block_top_menu']/ul/li[1]/a' for: 200 seconds
+2020-06-17 13:06:785 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-17 13:06:789 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:789 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 13:06:804 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 13:06:816 INFO  WaitHelper :139 - page is loaded
+2020-06-17 13:06:990 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:550 INFO  WaitHelper :148 - waiting for: Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='block_top_menu']/ul/li[1]/a' for: 200 seconds
+2020-06-17 13:06:968 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-17 13:06:971 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:972 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 13:06:987 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 13:06:999 INFO  WaitHelper :139 - page is loaded
+2020-06-17 13:06:538 INFO  TestBase :189 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 13:06:565 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:593 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (f8f4f3dec6c8d1d1c5eac82e8af049ba)] -> xpath: //div[@id='block_top_menu']/ul/li[1]/a] for: 200 seconds
+2020-06-17 13:06:681 INFO  WaitHelper :151 - element is visible now
+2020-06-17 13:06:683 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-17 13:06:292 INFO  NavigationMenu :59 - clicking on: WOMEN
+2020-06-17 13:06:675 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:702 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (f8f4f3dec6c8d1d1c5eac82e8af049ba)] -> xpath: //div[@id='layered_block_left']/p] for: 200 seconds
+2020-06-17 13:06:762 INFO  WaitHelper :151 - element is visible now
+2020-06-17 13:06:763 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-17 13:06:162 INFO  DropDownHelper :20 - DropDownHelper object created
+2020-06-17 13:06:236 INFO  DropDownHelper :37 - selectUsingVisibleText and visibleText is: Price: Lowest first
+2020-06-17 13:06:383 INFO  VerifyLowestFirstPriceFilter :52 - 16.51
+2020-06-17 13:06:400 INFO  VerifyLowestFirstPriceFilter :52 - 27.00
+2020-06-17 13:06:417 INFO  VerifyLowestFirstPriceFilter :52 - 26.00
+2020-06-17 13:06:434 INFO  VerifyLowestFirstPriceFilter :52 - 50.99
+2020-06-17 13:06:450 INFO  VerifyLowestFirstPriceFilter :52 - 28.98
+2020-06-17 13:06:482 INFO  VerifyLowestFirstPriceFilter :52 - 30.50
+2020-06-17 13:06:498 INFO  VerifyLowestFirstPriceFilter :52 - 16.40
+2020-06-17 13:06:514 INFO  VerifyLowestFirstPriceFilter :58 - [16, 27, 26, 50, 28, 30, 16]
+2020-06-17 13:06:514 INFO  VerifyLowestFirstPriceFilter :66 - obj.get(i): 16
+2020-06-17 13:06:514 INFO  VerifyLowestFirstPriceFilter :67 - obj.get(i + 1): 27
+2020-06-17 13:06:851 INFO  TestBase :139 - Initialize Web driver: 1201454821
+2020-06-17 13:06:855 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:855 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 13:06:871 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 13:06:883 INFO  WaitHelper :139 - page is loaded
+2020-06-17 13:06:279 INFO  TestBase :189 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 13:06:299 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:326 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (6e2293c764f367b4bcd81ce4c1d15dfe)] -> xpath: //div[@id='block_top_menu']/ul/li[1]/a] for: 200 seconds
+2020-06-17 13:06:415 INFO  WaitHelper :151 - element is visible now
+2020-06-17 13:06:416 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-17 13:06:06 INFO  NavigationMenu :59 - clicking on: WOMEN
+2020-06-17 13:06:410 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:435 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (6e2293c764f367b4bcd81ce4c1d15dfe)] -> xpath: //div[@id='layered_block_left']/p] for: 200 seconds
+2020-06-17 13:06:496 INFO  WaitHelper :151 - element is visible now
+2020-06-17 13:06:497 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-17 13:06:885 INFO  DropDownHelper :20 - DropDownHelper object created
+2020-06-17 13:06:962 INFO  DropDownHelper :37 - selectUsingVisibleText and visibleText is: Price: Lowest first
+2020-06-17 13:06:117 INFO  ProductCategoryPage :185 - 16.51
+2020-06-17 13:06:135 INFO  ProductCategoryPage :185 - 27.00
+2020-06-17 13:06:153 INFO  ProductCategoryPage :185 - 26.00
+2020-06-17 13:06:170 INFO  ProductCategoryPage :185 - 50.99
+2020-06-17 13:06:186 INFO  ProductCategoryPage :185 - 28.98
+2020-06-17 13:06:220 INFO  ProductCategoryPage :185 - 30.50
+2020-06-17 13:06:237 INFO  ProductCategoryPage :185 - 16.40
+2020-06-17 13:06:253 INFO  ProductCategoryPage :166 - obj.get(i): 16
+2020-06-17 13:06:253 INFO  ProductCategoryPage :167 - obj.get(i + 1): 27
+2020-06-17 13:06:242 INFO  TestBase :139 - Initialize Web driver: 939199469
+2020-06-17 13:06:246 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:246 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 13:06:262 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 13:06:275 INFO  WaitHelper :139 - page is loaded
+2020-06-17 13:06:53 INFO  TestBase :189 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 13:06:72 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:100 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (9b7b5bd0ecc41c67a37a7ec90a8dd46d)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 13:06:220 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 13:06:222 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-17 13:06:758 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 13:06:398 INFO  LoginPage :71 - entering email address..bspradee@gmail.com
+2020-06-17 13:06:702 INFO  LoginPage :77 - entering password.. shantha@123
+2020-06-17 13:06:809 INFO  LoginPage :84 - clicking on submit button..
+2020-06-17 13:06:811 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 13:06:812 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-17 13:06:417 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:418 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-17 13:06:239 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-17 13:06:27 INFO  TestBase :139 - Initialize Web driver: 1636588948
+2020-06-17 13:06:28 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:28 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 13:06:40 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 13:06:52 INFO  WaitHelper :139 - page is loaded
+2020-06-17 13:06:143 INFO  TestBase :189 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 13:06:146 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:175 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (35bcd31dac2642575bab253924aa98b1)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 13:06:270 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 13:06:271 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-17 13:06:761 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 13:06:790 INFO  LoginPage :97 - entering registration email..1592381206790@gmail.com
+2020-06-17 13:06:61 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:944 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (35bcd31dac2642575bab253924aa98b1)] -> xpath: //input[@id='id_gender1']] for: 200 seconds
+2020-06-17 13:06:07 INFO  WaitHelper :151 - element is visible now
+2020-06-17 13:06:09 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:25 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (35bcd31dac2642575bab253924aa98b1)] -> xpath: //input[@id='id_gender1']] for: 200 seconds
+2020-06-17 13:06:71 INFO  WaitHelper :151 - element is visible now
+2020-06-17 13:06:71 INFO  RegistrationPage :104 - selecting mr checkbox..
+2020-06-17 13:06:146 INFO  RegistrationPage :116 - entering first name..firstName
+2020-06-17 13:06:281 INFO  RegistrationPage :122 - entering last name..lastName
+2020-06-17 13:06:403 INFO  RegistrationPage :134 - entering password..password
+2020-06-17 13:06:585 INFO  RegistrationPage :199 - entering addressaddress
+2020-06-17 13:06:357 INFO  RegistrationPage :181 - entering yourAddressFirstNameyourAddressFirstName
+2020-06-17 13:06:543 INFO  RegistrationPage :187 - entering yourAddressLastNameyourAddressLastName
+2020-06-17 13:06:710 INFO  RegistrationPage :193 - entering yourAddressCompanyyourAddressCompany
+2020-06-17 13:06:863 INFO  RegistrationPage :211 - entering yourAddressCityyourAddressCity
+2020-06-17 13:06:08 INFO  RegistrationPage :217 - entering yourAddressStateAlaska
+2020-06-17 13:06:178 INFO  RegistrationPage :223 - entering yourAddressPostCode99501
+2020-06-17 13:06:284 INFO  RegistrationPage :241 - entering mobilephone9845098450
+2020-06-17 13:06:409 INFO  RegistrationPage :247 - entering addressAliasaddressAlias
+2020-06-17 13:06:536 INFO  RegistrationPage :253 - clicking on registraion..
+2020-06-17 13:06:819 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:847 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (35bcd31dac2642575bab253924aa98b1)] -> xpath: //span[.='Order history and details']] for: 200 seconds
+2020-06-17 13:06:907 INFO  WaitHelper :151 - element is visible now
+2020-06-17 13:06:909 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-17 13:06:352 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-17 13:06:421 INFO  TestBase :139 - Initialize Web driver: 1599566873
+2020-06-17 13:06:422 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:422 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 13:06:436 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 13:06:447 INFO  WaitHelper :139 - page is loaded
+2020-06-17 13:06:481 INFO  TestBase :189 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 13:06:483 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:511 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (0b666d798dde2bbe7ad628e5d59644d5)] -> xpath: //div[@id='block_top_menu']/ul/li[1]/a] for: 200 seconds
+2020-06-17 13:06:577 INFO  WaitHelper :151 - element is visible now
+2020-06-17 13:06:578 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-17 13:06:125 INFO  NavigationMenu :59 - clicking on: WOMEN
+2020-06-17 13:06:921 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:950 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (0b666d798dde2bbe7ad628e5d59644d5)] -> xpath: //div[@id='layered_block_left']/p] for: 200 seconds
+2020-06-17 13:06:06 INFO  WaitHelper :151 - element is visible now
+2020-06-17 13:06:07 INFO  TestBase :171 - capturing ui navigation screen...
+2020-06-17 13:06:389 INFO  DropDownHelper :20 - DropDownHelper object created
+2020-06-17 13:06:463 INFO  DropDownHelper :37 - selectUsingVisibleText and visibleText is: Price: Lowest first
+2020-06-17 13:06:607 INFO  ProductCategoryPage :185 - 16.51
+2020-06-17 13:06:624 INFO  ProductCategoryPage :185 - 27.00
+2020-06-17 13:06:641 INFO  ProductCategoryPage :185 - 26.00
+2020-06-17 13:06:658 INFO  ProductCategoryPage :185 - 50.99
+2020-06-17 13:06:675 INFO  ProductCategoryPage :185 - 28.98
+2020-06-17 13:06:707 INFO  ProductCategoryPage :185 - 30.50
+2020-06-17 13:06:724 INFO  ProductCategoryPage :185 - 16.40
+2020-06-17 13:06:740 INFO  ProductCategoryPage :166 - obj.get(i): 16
+2020-06-17 13:06:740 INFO  ProductCategoryPage :167 - obj.get(i + 1): 27
+2020-06-17 13:06:892 INFO  TestBase :140 - Initialize Web driver: 939199469
+2020-06-17 13:06:896 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:896 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 13:06:912 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 13:06:924 INFO  WaitHelper :139 - page is loaded
+2020-06-17 13:06:241 INFO  TestBase :191 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 13:06:263 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:290 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (1acc34884ddf60d770e495ff4b375670)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 13:06:410 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 13:06:411 INFO  TestBase :172 - capturing ui navigation screen...
+2020-06-17 13:06:413 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 13:06:910 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 13:06:307 INFO  TestBase :140 - Initialize Web driver: 192456457
+2020-06-17 13:06:308 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:308 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 13:06:324 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 13:06:337 INFO  WaitHelper :139 - page is loaded
+2020-06-17 13:06:749 INFO  TestBase :191 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 13:06:753 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:778 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (9a38ed3f50a97bb5cd82fd4013acfda3)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 13:06:874 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 13:06:875 INFO  TestBase :172 - capturing ui navigation screen...
+2020-06-17 13:06:877 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 13:06:319 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 13:06:509 INFO  TestBase :140 - Initialize Web driver: 854653864
+2020-06-17 13:06:511 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:511 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 13:06:524 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 13:06:536 INFO  WaitHelper :139 - page is loaded
+2020-06-17 13:06:415 INFO  TestBase :191 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 13:06:417 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:442 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (91ef1d946d830bf3be853f85f27b9594)] -> xpath: //div[@id='block_top_menu']/ul/li[1]/a] for: 200 seconds
+2020-06-17 13:06:510 INFO  WaitHelper :151 - element is visible now
+2020-06-17 13:06:511 INFO  TestBase :172 - capturing ui navigation screen...
+2020-06-17 13:06:512 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 13:06:00 INFO  NavigationMenu :59 - clicking on: WOMEN
+2020-06-17 13:06:173 INFO  TestBase :140 - Initialize Web driver: 939199469
+2020-06-17 13:06:177 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:177 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 13:06:193 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 13:06:205 INFO  WaitHelper :139 - page is loaded
+2020-06-17 13:06:944 INFO  TestBase :191 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 13:06:965 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:991 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (ae4c2339eaf0302003209a2106141901)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 13:06:113 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 13:06:114 INFO  TestBase :172 - capturing ui navigation screen...
+2020-06-17 13:06:116 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 13:06:665 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 13:06:189 INFO  TestBase :140 - Initialize Web driver: 192456457
+2020-06-17 13:06:190 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:190 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 13:06:205 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 13:06:219 INFO  WaitHelper :139 - page is loaded
+2020-06-17 13:06:634 INFO  TestBase :191 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 13:06:644 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:696 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (7422f14931c0355b0e9bf0e6d0576ced)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 13:06:880 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 13:06:880 INFO  TestBase :172 - capturing ui navigation screen...
+2020-06-17 13:06:884 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 13:06:754 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 13:06:536 INFO  TestBase :140 - Initialize Web driver: 854653864
+2020-06-17 13:06:539 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:539 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 13:06:555 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 13:06:579 INFO  WaitHelper :139 - page is loaded
+2020-06-17 13:06:924 INFO  TestBase :191 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 13:06:927 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:974 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (5db4de0eae3ad856f9676524ce78dc99)] -> xpath: //div[@id='block_top_menu']/ul/li[1]/a] for: 200 seconds
+2020-06-17 13:06:98 INFO  WaitHelper :151 - element is visible now
+2020-06-17 13:06:98 INFO  TestBase :172 - capturing ui navigation screen...
+2020-06-17 13:06:98 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 13:06:19 INFO  NavigationMenu :59 - clicking on: WOMEN
+2020-06-17 13:06:708 INFO  TestBase :140 - Initialize Web driver: 939199469
+2020-06-17 13:06:714 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:714 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 13:06:746 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 13:06:770 INFO  WaitHelper :139 - page is loaded
+2020-06-17 13:06:211 INFO  TestBase :191 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 13:06:258 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:309 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (6bd4edc63fc2ea2e35ea451c87252cc7)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 13:06:585 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 13:06:589 INFO  TestBase :172 - capturing ui navigation screen...
+2020-06-17 13:06:593 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 13:06:482 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 13:06:225 INFO  TestBase :140 - Initialize Web driver: 192456457
+2020-06-17 13:06:227 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:227 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 13:06:251 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 13:06:275 INFO  WaitHelper :139 - page is loaded
+2020-06-17 13:06:188 INFO  TestBase :191 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 13:06:192 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:216 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (133438551ab32a0b30737d32f4cbbad0)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 13:06:316 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 13:06:316 INFO  TestBase :172 - capturing ui navigation screen...
+2020-06-17 13:06:320 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 13:06:42 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 13:06:898 INFO  TestBase :140 - Initialize Web driver: 854653864
+2020-06-17 13:06:900 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:900 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 13:06:924 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 13:06:948 INFO  WaitHelper :139 - page is loaded
+2020-06-17 13:06:90 INFO  TestBase :191 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 13:06:92 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 13:06:116 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (22c8905e598dae8647630b94329eb6ff)] -> xpath: //div[@id='block_top_menu']/ul/li[1]/a] for: 200 seconds
+2020-06-17 13:06:180 INFO  WaitHelper :151 - element is visible now
+2020-06-17 13:06:180 INFO  TestBase :172 - capturing ui navigation screen...
+2020-06-17 13:06:180 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 13:06:940 INFO  NavigationMenu :59 - clicking on: WOMEN
+2020-06-17 14:06:80 INFO  TestBase :140 - Initialize Web driver: 1201454821
+2020-06-17 14:06:101 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 14:06:101 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 14:06:133 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 14:06:164 INFO  WaitHelper :139 - page is loaded
+2020-06-17 14:06:572 INFO  TestBase :191 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 14:06:593 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 14:06:629 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (2d1de7bf393a45dae5353ad37e0a0f4c)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 14:06:753 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 14:06:753 INFO  TestBase :172 - capturing ui navigation screen...
+2020-06-17 14:06:753 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 14:06:261 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 14:06:449 INFO  TestBase :140 - Initialize Web driver: 1201454821
+2020-06-17 14:06:455 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 14:06:455 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 14:06:471 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 14:06:480 INFO  WaitHelper :139 - page is loaded
+2020-06-17 14:06:784 INFO  TestBase :191 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 14:06:803 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 14:06:831 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (efcf2263f490ad5940f55a49e890259d)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 14:06:951 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 14:06:955 INFO  TestBase :172 - capturing ui navigation screen...
+2020-06-17 14:06:838 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 14:06:352 INFO  LoginPage :71 - entering email address..bspradee@gmail.com
+2020-06-17 14:06:513 INFO  LoginPage :77 - entering password.. shantha@123
+2020-06-17 14:06:638 INFO  LoginPage :84 - clicking on submit button..
+2020-06-17 14:06:642 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 14:06:642 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-17 14:06:09 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 14:06:11 INFO  TestBase :172 - capturing ui navigation screen...
+2020-06-17 14:06:825 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-17 14:06:365 INFO  TestBase :140 - Initialize Web driver: 1201454821
+2020-06-17 14:06:370 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 14:06:370 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 14:06:379 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 14:06:404 INFO  WaitHelper :139 - page is loaded
+2020-06-17 14:06:488 INFO  TestBase :140 - Initialize Web driver: 1201454821
+2020-06-17 14:06:493 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 14:06:493 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 14:06:510 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 14:06:526 INFO  WaitHelper :139 - page is loaded
+2020-06-17 14:06:34 INFO  TestBase :192 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 14:06:57 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 14:06:85 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (3dd28147bba34f4a1acf5522bc214599)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 14:06:277 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 14:06:277 INFO  TestBase :172 - capturing ui navigation screen...
+2020-06-17 14:06:281 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 14:06:130 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 14:06:206 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 14:06:890 INFO  LoginPage :71 - entering email address..bspradee@gmail.com
+2020-06-17 14:06:45 INFO  LoginPage :77 - entering password.. shantha@123
+2020-06-17 14:06:173 INFO  LoginPage :84 - clicking on submit button..
+2020-06-17 14:06:173 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 14:06:173 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-17 14:06:591 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 14:06:595 INFO  TestBase :172 - capturing ui navigation screen...
+2020-06-17 14:06:597 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 14:06:19 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 14:06:139 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-17 19:06:485 INFO  TestBase :140 - Initialize Web driver: 1179792105
+2020-06-17 19:06:489 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:490 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:506 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:522 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:972 INFO  TestBase :194 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 19:06:16 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:392 INFO  TestBase :140 - Initialize Web driver: 1866768727
+2020-06-17 19:06:395 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:396 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:424 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:445 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:533 INFO  TestBase :140 - Initialize Web driver: 520162288
+2020-06-17 19:06:541 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:541 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:573 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:605 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:754 INFO  TestBase :140 - Initialize Web driver: 1179792105
+2020-06-17 19:06:767 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:767 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:791 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:815 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:895 INFO  TestBase :140 - Initialize Web driver: 1616359099
+2020-06-17 19:06:897 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:897 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:914 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:930 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:218 INFO  TestBase :194 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 19:06:258 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:791 INFO  TestBase :132 - session not created
+from chrome not reachable
+  (Session info: chrome=83.0.4103.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-UBQJ9QQ', ip: '192.168.43.141', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00CA9563+2725219]
+	Ordinal0 [0x00BA8551+1672529]
+	Ordinal0 [0x00A90202+524802]
+	Ordinal0 [0x00A899B2+498098]
+	Ordinal0 [0x00A8A09B+499867]
+	Ordinal0 [0x00A8AFF5+503797]
+	Ordinal0 [0x00A86994+485780]
+	Ordinal0 [0x00A90FF0+528368]
+	Ordinal0 [0x00A3D6C9+186057]
+	Ordinal0 [0x00A3CA3D+182845]
+	Ordinal0 [0x00A3A94B+174411]
+	Ordinal0 [0x00A22528+75048]
+	Ordinal0 [0x00A235A0+79264]
+	Ordinal0 [0x00A23539+79161]
+	Ordinal0 [0x00BBD607+1758727]
+	GetHandleVerifier [0x00DC6546+1050150]
+	GetHandleVerifier [0x00DC6291+1049457]
+	GetHandleVerifier [0x00DD10D7+1094071]
+	GetHandleVerifier [0x00DC6B46+1051686]
+	Ordinal0 [0x00BB5B06+1727238]
+	Ordinal0 [0x00BBEB7B+1764219]
+	Ordinal0 [0x00BBECE3+1764579]
+	Ordinal0 [0x00BD4C05+1854469]
+	BaseThreadInitThunk [0x767C6359+25]
+	RtlGetAppContainerNamedObjectPath [0x77967C24+228]
+	RtlGetAppContainerNamedObjectPath [0x77967BF4+180]
+
+2020-06-17 19:06:887 INFO  TestBase :149 - driver is null..
+2020-06-17 19:06:501 INFO  TestBase :140 - Initialize Web driver: 1822525972
+2020-06-17 19:06:515 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:515 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:540 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:549 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:202 INFO  TestBase :140 - Initialize Web driver: 1179792105
+2020-06-17 19:06:210 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:210 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:242 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:274 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:43 INFO  TestBase :140 - Initialize Web driver: 460570271
+2020-06-17 19:06:45 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:45 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:58 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:70 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:106 INFO  TestBase :194 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 19:06:446 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:576 INFO  TestBase :132 - session not created
+from chrome not reachable
+  (Session info: chrome=83.0.4103.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-UBQJ9QQ', ip: '192.168.43.141', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00CA9563+2725219]
+	Ordinal0 [0x00BA8551+1672529]
+	Ordinal0 [0x00A90202+524802]
+	Ordinal0 [0x00A899B2+498098]
+	Ordinal0 [0x00A8A09B+499867]
+	Ordinal0 [0x00A8AFF5+503797]
+	Ordinal0 [0x00A86994+485780]
+	Ordinal0 [0x00A90FF0+528368]
+	Ordinal0 [0x00A3D6C9+186057]
+	Ordinal0 [0x00A3CA3D+182845]
+	Ordinal0 [0x00A3A94B+174411]
+	Ordinal0 [0x00A22528+75048]
+	Ordinal0 [0x00A235A0+79264]
+	Ordinal0 [0x00A23539+79161]
+	Ordinal0 [0x00BBD607+1758727]
+	GetHandleVerifier [0x00DC6546+1050150]
+	GetHandleVerifier [0x00DC6291+1049457]
+	GetHandleVerifier [0x00DD10D7+1094071]
+	GetHandleVerifier [0x00DC6B46+1051686]
+	Ordinal0 [0x00BB5B06+1727238]
+	Ordinal0 [0x00BBEB7B+1764219]
+	Ordinal0 [0x00BBECE3+1764579]
+	Ordinal0 [0x00BD4C05+1854469]
+	BaseThreadInitThunk [0x767C6359+25]
+	RtlGetAppContainerNamedObjectPath [0x77967C24+228]
+	RtlGetAppContainerNamedObjectPath [0x77967BF4+180]
+
+2020-06-17 19:06:626 INFO  TestBase :149 - driver is null..
+2020-06-17 19:06:432 INFO  TestBase :140 - Initialize Web driver: 237344028
+2020-06-17 19:06:439 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:439 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:455 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:468 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:88 INFO  TestBase :194 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 19:06:124 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:329 INFO  TestBase :140 - Initialize Web driver: 1822525972
+2020-06-17 19:06:332 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:332 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:356 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:370 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:446 INFO  TestBase :194 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 19:06:481 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:338 INFO  TestBase :140 - Initialize Web driver: 1822525972
+2020-06-17 19:06:341 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:341 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:363 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:375 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:65 INFO  TestBase :194 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 19:06:99 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:113 INFO  ExtentListener :33 - A Test Started..
+2020-06-17 19:06:841 INFO  TestBase :140 - Initialize Web driver: 996125997
+2020-06-17 19:06:842 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:843 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:858 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:872 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:32 INFO  ExtentListener :57 - testLoginA Test Started..
+2020-06-17 19:06:35 INFO  ExtentListener :65 - testLoginA Test Passed..
+2020-06-17 19:06:220 INFO  ExtentListener :24 - A Test Finished..
+2020-06-17 19:06:222 INFO  ExtentListener :33 - B Test Started..
+2020-06-17 19:06:318 INFO  TestBase :140 - Initialize Web driver: 1494346128
+2020-06-17 19:06:319 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:319 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:333 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:346 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:481 INFO  ExtentListener :57 - testLoginB Test Started..
+2020-06-17 19:06:485 ERROR ExtentListener :44 - testLoginB Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-17 19:06:399 INFO  ExtentListener :24 - B Test Finished..
+2020-06-17 19:06:399 INFO  ExtentListener :33 - C Test Started..
+2020-06-17 19:06:563 INFO  TestBase :140 - Initialize Web driver: 1271041075
+2020-06-17 19:06:565 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:565 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:578 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:591 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:726 INFO  ExtentListener :57 - testLoginC Test Started..
+2020-06-17 19:06:728 ERROR ExtentListener :44 - testLoginC Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-06-17 19:06:159 INFO  ExtentListener :24 - C Test Finished..
+2020-06-17 19:06:160 INFO  ExtentListener :33 - TestScreenShot Test Started..
+2020-06-17 19:06:337 INFO  TestBase :140 - Initialize Web driver: 494953170
+2020-06-17 19:06:338 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:339 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:350 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:363 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:496 INFO  ExtentListener :57 - testScreen Test Started..
+2020-06-17 19:06:35 INFO  TestBase :172 - capturing ui navigation screen...
+2020-06-17 19:06:41 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 19:06:715 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 19:06:733 INFO  ExtentListener :65 - testScreen Test Passed..
+2020-06-17 19:06:857 INFO  ExtentListener :24 - TestScreenShot Test Finished..
+2020-06-17 19:06:469 INFO  TestBase :140 - Initialize Web driver: 1164799006
+2020-06-17 19:06:472 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:472 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:488 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:501 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:588 INFO  TestBase :140 - Initialize Web driver: 1816756435
+2020-06-17 19:06:589 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:589 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:603 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:615 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:208 INFO  TestBase :140 - Initialize Web driver: 1822525972
+2020-06-17 19:06:211 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:212 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:233 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:245 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:618 INFO  TestBase :140 - Initialize Web driver: 1822525972
+2020-06-17 19:06:621 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:621 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:643 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:655 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:122 INFO  TestBase :194 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 19:06:154 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:989 INFO  TestBase :140 - Initialize Web driver: 1822525972
+2020-06-17 19:06:993 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:993 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:16 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:28 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:676 INFO  TestBase :194 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 19:06:706 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:425 INFO  WaitHelper :73 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(.,'Sign in')]'for :200 seconds
+2020-06-17 19:06:96 INFO  TestBase :140 - Initialize Web driver: 1822525972
+2020-06-17 19:06:99 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:99 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:121 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:135 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:89 INFO  TestBase :194 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 19:06:115 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:535 INFO  WaitHelper :73 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(.,'Sign in')]'for :200 seconds
+2020-06-17 19:06:453 INFO  TestBase :140 - Initialize Web driver: 1822525972
+2020-06-17 19:06:456 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:456 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:478 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:490 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:326 INFO  TestBase :194 - navigating to ...http://facebook.com/
+2020-06-17 19:06:352 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:430 INFO  WaitHelper :73 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(.,'Sign in')]'for :200 seconds
+2020-06-17 19:06:859 INFO  TestBase :140 - Initialize Web driver: 1822525972
+2020-06-17 19:06:863 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:863 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:885 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:898 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:20 INFO  TestBase :194 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 19:06:60 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:925 INFO  TestBase :141 - Initialize Web driver: 1822525972
+2020-06-17 19:06:928 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:935 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 19:06:952 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 19:06:966 INFO  WaitHelper :139 - page is loaded
+2020-06-17 19:06:116 INFO  TestBase :77 - ****************testLoginToApplicationstarted*******************
+2020-06-17 19:06:209 INFO  TestBase :195 - navigating to ...https://www.amazon.in/
+2020-06-17 19:06:230 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 19:06:256 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (9d61557a5bf140a6217ac238c8134f22)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 19:06:437 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 19:06:439 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 19:06:440 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 19:06:98 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 19:06:160 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 19:06:416 INFO  LoginPage :71 - entering email address..bspradee@gmail.com
+2020-06-17 20:06:567 INFO  TestBase :141 - Initialize Web driver: 459718907
+2020-06-17 20:06:570 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:571 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 20:06:587 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 20:06:600 INFO  WaitHelper :139 - page is loaded
+2020-06-17 20:06:762 INFO  TestBase :77 - ****************testLoginToApplicationstarted*******************
+2020-06-17 20:06:181 INFO  TestBase :141 - Initialize Web driver: 1440738283
+2020-06-17 20:06:182 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:183 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 20:06:196 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 20:06:208 INFO  WaitHelper :139 - page is loaded
+2020-06-17 20:06:342 INFO  TestBase :77 - ****************testLoginToApplicationstarted*******************
+2020-06-17 20:06:599 INFO  TestBase :141 - Initialize Web driver: 1822525972
+2020-06-17 20:06:602 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:602 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 20:06:627 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 20:06:640 INFO  WaitHelper :139 - page is loaded
+2020-06-17 20:06:791 INFO  TestBase :77 - ****************testLoginToApplicationstarted*******************
+2020-06-17 20:06:653 INFO  TestBase :195 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 20:06:681 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:710 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (26895ee26efda26a459757972f931e59)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 20:06:824 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 20:06:825 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 20:06:828 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:643 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:664 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 20:06:614 INFO  LoginPage :71 - entering email address..bspradee@gmail.com
+2020-06-17 20:06:719 INFO  LoginPage :77 - entering password.. shantha@123
+2020-06-17 20:06:840 INFO  LoginPage :84 - clicking on submit button..
+2020-06-17 20:06:841 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:842 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-17 20:06:264 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:265 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 20:06:266 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:691 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:820 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-17 20:06:342 INFO  TestBase :141 - Initialize Web driver: 1164799006
+2020-06-17 20:06:345 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:345 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 20:06:362 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 20:06:375 INFO  WaitHelper :139 - page is loaded
+2020-06-17 20:06:530 INFO  TestBase :77 - ****************testLoginToApplicationstarted*******************
+2020-06-17 20:06:272 INFO  TestBase :195 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 20:06:292 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:322 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (6ed5988ca7d391bc9a787b8d9b601699)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 20:06:439 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 20:06:441 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 20:06:443 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:199 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:222 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 20:06:819 INFO  LoginPage :71 - entering email address..bspradee@gmail.com
+2020-06-17 20:06:39 INFO  LoginPage :77 - entering password.. shantha@123
+2020-06-17 20:06:581 INFO  LoginPage :84 - clicking on submit button..
+2020-06-17 20:06:583 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:584 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-17 20:06:273 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:274 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 20:06:275 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:693 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:825 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-17 20:06:421 INFO  TestBase :141 - Initialize Web driver: 1265053098
+2020-06-17 20:06:422 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:422 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 20:06:435 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 20:06:447 INFO  WaitHelper :139 - page is loaded
+2020-06-17 20:06:582 INFO  TestBase :77 - ****************testLoginToApplicationstarted*******************
+2020-06-17 20:06:360 INFO  TestBase :195 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 20:06:363 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:388 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (749af875abe494d262bf94f543b12a46)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 20:06:477 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 20:06:478 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 20:06:479 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:962 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:983 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 20:06:228 INFO  LoginPage :97 - entering registration email..1592404412228@gmail.com
+2020-06-17 20:06:496 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:491 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (749af875abe494d262bf94f543b12a46)] -> xpath: //input[@id='id_gender1']] for: 200 seconds
+2020-06-17 20:06:551 INFO  WaitHelper :151 - element is visible now
+2020-06-17 20:06:553 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:570 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (749af875abe494d262bf94f543b12a46)] -> xpath: //input[@id='id_gender1']] for: 200 seconds
+2020-06-17 20:06:615 INFO  WaitHelper :151 - element is visible now
+2020-06-17 20:06:616 INFO  RegistrationPage :104 - selecting mr checkbox..
+2020-06-17 20:06:697 INFO  RegistrationPage :116 - entering first name..firstName
+2020-06-17 20:06:833 INFO  RegistrationPage :122 - entering last name..lastName
+2020-06-17 20:06:951 INFO  RegistrationPage :134 - entering password..password
+2020-06-17 20:06:130 INFO  RegistrationPage :199 - entering addressaddress
+2020-06-17 20:06:935 INFO  RegistrationPage :181 - entering yourAddressFirstNameyourAddressFirstName
+2020-06-17 20:06:160 INFO  RegistrationPage :187 - entering yourAddressLastNameyourAddressLastName
+2020-06-17 20:06:331 INFO  RegistrationPage :193 - entering yourAddressCompanyyourAddressCompany
+2020-06-17 20:06:482 INFO  RegistrationPage :211 - entering yourAddressCityyourAddressCity
+2020-06-17 20:06:618 INFO  RegistrationPage :217 - entering yourAddressStateAlaska
+2020-06-17 20:06:787 INFO  RegistrationPage :223 - entering yourAddressPostCode99501
+2020-06-17 20:06:886 INFO  RegistrationPage :241 - entering mobilephone9845098450
+2020-06-17 20:06:09 INFO  RegistrationPage :247 - entering addressAliasaddressAlias
+2020-06-17 20:06:130 INFO  RegistrationPage :253 - clicking on registraion..
+2020-06-17 20:06:866 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:892 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (749af875abe494d262bf94f543b12a46)] -> xpath: //span[.='Order history and details']] for: 200 seconds
+2020-06-17 20:06:947 INFO  WaitHelper :151 - element is visible now
+2020-06-17 20:06:948 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 20:06:949 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:296 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:410 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-17 20:06:845 INFO  TestBase :141 - Initialize Web driver: 459718907
+2020-06-17 20:06:849 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:849 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 20:06:865 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 20:06:877 INFO  WaitHelper :139 - page is loaded
+2020-06-17 20:06:32 INFO  TestBase :77 - ****************testLoginToApplicationstarted*******************
+2020-06-17 20:06:419 INFO  TestBase :141 - Initialize Web driver: 1440738283
+2020-06-17 20:06:420 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:420 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 20:06:433 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 20:06:447 INFO  WaitHelper :139 - page is loaded
+2020-06-17 20:06:583 INFO  TestBase :77 - ****************testLoginToApplicationstarted*******************
+2020-06-17 20:06:910 INFO  TestBase :141 - Initialize Web driver: 459718907
+2020-06-17 20:06:913 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:914 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 20:06:928 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 20:06:939 INFO  WaitHelper :139 - page is loaded
+2020-06-17 20:06:99 INFO  TestBase :77 - ****************testLoginToApplicationstarted*******************
+2020-06-17 20:06:220 INFO  TestBase :195 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 20:06:246 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:275 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (0d0975ecf90718ec281ec2cd958bc478)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 20:06:390 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 20:06:392 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 20:06:394 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:977 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:15 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 20:06:427 INFO  LoginPage :71 - entering email address..bspradee@gmail.com
+2020-06-17 20:06:566 INFO  LoginPage :77 - entering password.. shantha@123
+2020-06-17 20:06:690 INFO  LoginPage :84 - clicking on submit button..
+2020-06-17 20:06:693 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:694 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-17 20:06:455 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:456 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 20:06:457 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:892 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:17 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-17 20:06:415 INFO  TestBase :141 - Initialize Web driver: 833240229
+2020-06-17 20:06:416 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:416 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 20:06:428 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 20:06:439 INFO  WaitHelper :139 - page is loaded
+2020-06-17 20:06:572 INFO  TestBase :77 - ****************testLoginToApplicationstarted*******************
+2020-06-17 20:06:577 INFO  TestBase :195 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 20:06:580 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:605 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (3db5f68e79cfa9b487e8e0c108533855)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 20:06:691 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 20:06:692 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 20:06:693 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:198 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:235 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 20:06:893 INFO  LoginPage :97 - entering registration email..1592404651893@gmail.com
+2020-06-17 20:06:164 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:664 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (3db5f68e79cfa9b487e8e0c108533855)] -> xpath: //input[@id='id_gender1']] for: 200 seconds
+2020-06-17 20:06:727 INFO  WaitHelper :151 - element is visible now
+2020-06-17 20:06:729 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:746 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (3db5f68e79cfa9b487e8e0c108533855)] -> xpath: //input[@id='id_gender1']] for: 200 seconds
+2020-06-17 20:06:790 INFO  WaitHelper :151 - element is visible now
+2020-06-17 20:06:790 INFO  RegistrationPage :104 - selecting mr checkbox..
+2020-06-17 20:06:867 INFO  RegistrationPage :116 - entering first name..firstName
+2020-06-17 20:06:03 INFO  RegistrationPage :122 - entering last name..lastName
+2020-06-17 20:06:117 INFO  RegistrationPage :134 - entering password..password
+2020-06-17 20:06:249 INFO  RegistrationPage :199 - entering addressaddress
+2020-06-17 20:06:83 INFO  RegistrationPage :181 - entering yourAddressFirstNameyourAddressFirstName
+2020-06-17 20:06:270 INFO  RegistrationPage :187 - entering yourAddressLastNameyourAddressLastName
+2020-06-17 20:06:434 INFO  RegistrationPage :193 - entering yourAddressCompanyyourAddressCompany
+2020-06-17 20:06:613 INFO  RegistrationPage :211 - entering yourAddressCityyourAddressCity
+2020-06-17 20:06:751 INFO  RegistrationPage :217 - entering yourAddressStateAlaska
+2020-06-17 20:06:919 INFO  RegistrationPage :223 - entering yourAddressPostCode99501
+2020-06-17 20:06:24 INFO  RegistrationPage :241 - entering mobilephone9845098450
+2020-06-17 20:06:149 INFO  RegistrationPage :247 - entering addressAliasaddressAlias
+2020-06-17 20:06:277 INFO  RegistrationPage :253 - clicking on registraion..
+2020-06-17 20:06:754 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:778 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (3db5f68e79cfa9b487e8e0c108533855)] -> xpath: //span[.='Order history and details']] for: 200 seconds
+2020-06-17 20:06:837 INFO  WaitHelper :151 - element is visible now
+2020-06-17 20:06:838 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 20:06:839 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:180 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:292 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-17 20:06:132 INFO  TestBase :141 - Initialize Web driver: 459718907
+2020-06-17 20:06:136 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:136 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 20:06:153 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 20:06:165 INFO  WaitHelper :139 - page is loaded
+2020-06-17 20:06:541 INFO  TestBase :77 - ****************testLoginToApplicationstarted*******************
+2020-06-17 20:06:892 INFO  TestBase :195 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 20:06:919 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:759 INFO  WaitHelper :73 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(.,'Sign in')]'for :200 seconds
+2020-06-17 20:06:558 INFO  TestBase :141 - Initialize Web driver: 432430300
+2020-06-17 20:06:560 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:560 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 20:06:574 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 20:06:587 INFO  WaitHelper :139 - page is loaded
+2020-06-17 20:06:624 INFO  TestBase :77 - ****************testLoginToApplicationstarted*******************
+2020-06-17 20:06:584 INFO  TestBase :141 - Initialize Web driver: 459718907
+2020-06-17 20:06:588 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:588 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 20:06:603 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 20:06:615 INFO  WaitHelper :139 - page is loaded
+2020-06-17 20:06:782 INFO  TestBase :77 - ****************testLoginToApplicationstarted*******************
+2020-06-17 20:06:976 INFO  TestBase :195 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 20:06:05 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:36 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (2b91628341a7dc15fa12c82fbc359c09)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 20:06:154 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 20:06:155 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 20:06:157 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:649 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:700 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 20:06:678 INFO  LoginPage :71 - entering email address..bspradee@gmail.com
+2020-06-17 20:06:66 INFO  TestBase :141 - Initialize Web driver: 727666004
+2020-06-17 20:06:69 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:69 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 20:06:84 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 20:06:99 INFO  WaitHelper :139 - page is loaded
+2020-06-17 20:06:232 INFO  TestBase :77 - ****************testLoginToApplicationstarted*******************
+2020-06-17 20:06:547 INFO  TestBase :195 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 20:06:550 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:579 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (942fd4460afad072d2526b0575bd3ece)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 20:06:679 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 20:06:680 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 20:06:682 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:187 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:226 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 20:06:699 INFO  LoginPage :97 - entering registration email..1592405083699@gmail.com
+2020-06-17 20:06:67 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:540 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (942fd4460afad072d2526b0575bd3ece)] -> xpath: //input[@id='id_gender1']] for: 200 seconds
+2020-06-17 20:06:611 INFO  WaitHelper :151 - element is visible now
+2020-06-17 20:06:613 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:629 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (942fd4460afad072d2526b0575bd3ece)] -> xpath: //input[@id='id_gender1']] for: 200 seconds
+2020-06-17 20:06:672 INFO  WaitHelper :151 - element is visible now
+2020-06-17 20:06:673 INFO  RegistrationPage :104 - selecting mr checkbox..
+2020-06-17 20:06:754 INFO  RegistrationPage :116 - entering first name..firstName
+2020-06-17 20:06:893 INFO  RegistrationPage :122 - entering last name..lastName
+2020-06-17 20:06:11 INFO  RegistrationPage :134 - entering password..password
+2020-06-17 20:06:195 INFO  RegistrationPage :199 - entering addressaddress
+2020-06-17 20:06:998 INFO  RegistrationPage :181 - entering yourAddressFirstNameyourAddressFirstName
+2020-06-17 20:06:186 INFO  RegistrationPage :187 - entering yourAddressLastNameyourAddressLastName
+2020-06-17 20:06:386 INFO  RegistrationPage :193 - entering yourAddressCompanyyourAddressCompany
+2020-06-17 20:06:531 INFO  RegistrationPage :211 - entering yourAddressCityyourAddressCity
+2020-06-17 20:06:665 INFO  RegistrationPage :217 - entering yourAddressStateAlaska
+2020-06-17 20:06:830 INFO  RegistrationPage :223 - entering yourAddressPostCode99501
+2020-06-17 20:06:933 INFO  RegistrationPage :241 - entering mobilephone9845098450
+2020-06-17 20:06:55 INFO  RegistrationPage :247 - entering addressAliasaddressAlias
+2020-06-17 20:06:182 INFO  RegistrationPage :253 - clicking on registraion..
+2020-06-17 20:06:800 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:832 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (942fd4460afad072d2526b0575bd3ece)] -> xpath: //span[.='Order history and details']] for: 200 seconds
+2020-06-17 20:06:896 INFO  WaitHelper :151 - element is visible now
+2020-06-17 20:06:897 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 20:06:898 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:252 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:370 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-17 20:06:710 INFO  TestBase :141 - Initialize Web driver: 459718907
+2020-06-17 20:06:714 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:714 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 20:06:731 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 20:06:743 INFO  WaitHelper :139 - page is loaded
+2020-06-17 20:06:906 INFO  TestBase :77 - ****************testLoginToApplicationstarted*******************
+2020-06-17 20:06:311 INFO  TestBase :195 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 20:06:336 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:365 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (8d5a4b9e2bb245cc27c8158b92d30dca)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 20:06:494 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 20:06:496 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 20:06:498 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:967 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:01 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 20:06:621 INFO  LoginPage :71 - entering email address..bspradee@gmail.com
+2020-06-17 20:06:775 INFO  LoginPage :77 - entering password.. shantha@123
+2020-06-17 20:06:896 INFO  LoginPage :84 - clicking on submit button..
+2020-06-17 20:06:898 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:898 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-17 20:06:255 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:256 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 20:06:258 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:686 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:810 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-17 20:06:147 INFO  TestBase :141 - Initialize Web driver: 833240229
+2020-06-17 20:06:148 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:148 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 20:06:163 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 20:06:178 INFO  WaitHelper :139 - page is loaded
+2020-06-17 20:06:313 INFO  TestBase :77 - ****************testLoginToApplicationstarted*******************
+2020-06-17 20:06:971 INFO  TestBase :195 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 20:06:974 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:999 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (188fb4a31c8d41a1dbc61788395e11f1)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 20:06:99 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 20:06:100 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 20:06:101 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:560 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:595 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 20:06:460 INFO  LoginPage :97 - entering registration email..1592405161460@gmail.com
+2020-06-17 20:06:752 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:251 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (188fb4a31c8d41a1dbc61788395e11f1)] -> xpath: //input[@id='id_gender1']] for: 200 seconds
+2020-06-17 20:06:315 INFO  WaitHelper :151 - element is visible now
+2020-06-17 20:06:317 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:332 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (188fb4a31c8d41a1dbc61788395e11f1)] -> xpath: //input[@id='id_gender1']] for: 200 seconds
+2020-06-17 20:06:377 INFO  WaitHelper :151 - element is visible now
+2020-06-17 20:06:377 INFO  RegistrationPage :104 - selecting mr checkbox..
+2020-06-17 20:06:450 INFO  RegistrationPage :116 - entering first name..firstName
+2020-06-17 20:06:584 INFO  RegistrationPage :122 - entering last name..lastName
+2020-06-17 20:06:704 INFO  RegistrationPage :134 - entering password..password
+2020-06-17 20:06:890 INFO  RegistrationPage :199 - entering addressaddress
+2020-06-17 20:06:689 INFO  RegistrationPage :181 - entering yourAddressFirstNameyourAddressFirstName
+2020-06-17 20:06:856 INFO  RegistrationPage :187 - entering yourAddressLastNameyourAddressLastName
+2020-06-17 20:06:09 INFO  RegistrationPage :193 - entering yourAddressCompanyyourAddressCompany
+2020-06-17 20:06:180 INFO  RegistrationPage :211 - entering yourAddressCityyourAddressCity
+2020-06-17 20:06:329 INFO  RegistrationPage :217 - entering yourAddressStateAlaska
+2020-06-17 20:06:498 INFO  RegistrationPage :223 - entering yourAddressPostCode99501
+2020-06-17 20:06:607 INFO  RegistrationPage :241 - entering mobilephone9845098450
+2020-06-17 20:06:731 INFO  RegistrationPage :247 - entering addressAliasaddressAlias
+2020-06-17 20:06:875 INFO  RegistrationPage :253 - clicking on registraion..
+2020-06-17 20:06:202 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:231 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (188fb4a31c8d41a1dbc61788395e11f1)] -> xpath: //span[.='Order history and details']] for: 200 seconds
+2020-06-17 20:06:290 INFO  WaitHelper :151 - element is visible now
+2020-06-17 20:06:291 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 20:06:292 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:631 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:747 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-17 20:06:302 INFO  TestBase :141 - Initialize Web driver: 1164799006
+2020-06-17 20:06:308 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:308 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 20:06:323 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 20:06:335 INFO  WaitHelper :139 - page is loaded
+2020-06-17 20:06:493 INFO  TestBase :77 - ****************testLoginToApplicationstarted*******************
+2020-06-17 20:06:336 INFO  TestBase :195 - navigating to ...https://www.amazon.in/
+2020-06-17 20:06:355 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:381 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (677dd5ad40dc5ebe31a9c6e1c9a024f9)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-17 20:06:497 INFO  WaitHelper :77 - element is Clickable now
+2020-06-17 20:06:498 INFO  TestBase :173 - capturing ui navigation screen...
+2020-06-17 20:06:500 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:185 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-17 20:06:246 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-17 20:06:330 INFO  LoginPage :71 - entering email address..bspradee@gmail.com
+2020-06-17 20:06:570 INFO  TestBase :141 - Initialize Web driver: 459718907
+2020-06-17 20:06:572 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:572 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-17 20:06:586 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-17 20:06:599 INFO  WaitHelper :139 - page is loaded
+2020-06-17 20:06:762 INFO  TestBase :77 - ****************testLoginToApplicationstarted*******************
+2020-06-17 20:06:268 INFO  TestBase :195 - navigating to ...http://automationpractice.com/index.php
+2020-06-17 20:06:299 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-17 20:06:242 INFO  WaitHelper :73 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(.,'Sign in')]'for :200 seconds
+2020-06-19 20:06:936 INFO  TestBase :142 - Initialize Web driver: 1822525972
+2020-06-19 20:06:01 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-19 20:06:01 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-19 20:06:18 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-19 20:06:31 INFO  WaitHelper :139 - page is loaded
+2020-06-19 20:06:227 INFO  TestBase :78 - ****************testLoginToApplicationstarted*******************
+2020-06-19 20:06:130 INFO  TestBase :196 - navigating to ...http://automationpractice.com/index.php
+2020-06-19 20:06:158 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-19 20:06:187 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (8a28af062fe6f6b9546325efc3275482)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-19 20:06:477 INFO  WaitHelper :77 - element is Clickable now
+2020-06-19 20:06:479 INFO  TestBase :174 - capturing ui navigation screen...
+2020-06-19 20:06:482 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:133 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:171 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-19 20:06:216 INFO  LoginPage :71 - entering email address..bspradee@gmail.com
+2020-06-19 20:06:475 INFO  LoginPage :77 - entering password.. shantha@123
+2020-06-19 20:06:604 INFO  LoginPage :84 - clicking on submit button..
+2020-06-19 20:06:605 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:605 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-19 20:06:03 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-19 20:06:04 INFO  TestBase :174 - capturing ui navigation screen...
+2020-06-19 20:06:05 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:448 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:575 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-19 20:06:759 INFO  TestBase :138 - Initialize Web driver: 457247584
+2020-06-19 20:06:763 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-19 20:06:763 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-19 20:06:780 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-19 20:06:793 INFO  WaitHelper :139 - page is loaded
+2020-06-19 20:06:09 INFO  TestBase :192 - navigating to ...http://automationpractice.com/index.php
+2020-06-19 20:06:35 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-19 20:06:65 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (90bbcf0e1ec4280d87563374e0352043)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-19 20:06:179 INFO  WaitHelper :77 - element is Clickable now
+2020-06-19 20:06:180 INFO  TestBase :170 - capturing ui navigation screen...
+2020-06-19 20:06:183 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:760 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:801 INFO  TestBase :200 - excel location C:\Users\Prade\eclipse-workspace-BhanuPrathap\Sample//src/main/resources/configfile/testData.xlsx
+2020-06-19 20:06:222 INFO  TestBase :74 - ****************loginTeststarted*******************
+2020-06-19 20:06:225 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-19 20:06:729 INFO  LoginPage :71 - entering email address..1529830551216@gmail.com
+2020-06-19 20:06:880 INFO  LoginPage :77 - entering password.. password
+2020-06-19 20:06:995 INFO  LoginPage :84 - clicking on submit button..
+2020-06-19 20:06:996 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:996 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-19 20:06:560 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-19 20:06:561 INFO  TestBase :170 - capturing ui navigation screen...
+2020-06-19 20:06:563 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:992 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:121 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-19 20:06:632 INFO  TestBase :74 - ****************loginTeststarted*******************
+2020-06-19 20:06:633 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-19 20:06:61 INFO  TestBase :74 - ****************loginTeststarted*******************
+2020-06-19 20:06:402 INFO  TestBase :138 - Initialize Web driver: 457247584
+2020-06-19 20:06:406 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-19 20:06:406 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-19 20:06:422 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-19 20:06:434 INFO  WaitHelper :139 - page is loaded
+2020-06-19 20:06:495 INFO  TestBase :192 - navigating to ...http://automationpractice.com/index.php
+2020-06-19 20:06:521 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-19 20:06:551 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (44684c2e9174c7e63b0324af609b60c4)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-19 20:06:672 INFO  WaitHelper :77 - element is Clickable now
+2020-06-19 20:06:674 INFO  TestBase :170 - capturing ui navigation screen...
+2020-06-19 20:06:676 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:138 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:163 INFO  TestBase :200 - excel location C:\Users\Prade\eclipse-workspace-BhanuPrathap\Sample//src/main/resources/configfile/testData.xlsx
+2020-06-19 20:06:655 INFO  TestBase :74 - ****************loginTeststarted*******************
+2020-06-19 20:06:660 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-19 20:06:582 INFO  LoginPage :71 - entering email address..1529830551216@gmail.com
+2020-06-19 20:06:748 INFO  LoginPage :77 - entering password.. password
+2020-06-19 20:06:871 INFO  LoginPage :84 - clicking on submit button..
+2020-06-19 20:06:874 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:874 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-19 20:06:425 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-19 20:06:426 INFO  TestBase :170 - capturing ui navigation screen...
+2020-06-19 20:06:427 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:841 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:969 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-19 20:06:486 INFO  TestBase :74 - ****************loginTeststarted*******************
+2020-06-19 20:06:487 INFO  LoginPage :64 - clicked on sign in link...
+2020-06-19 20:06:885 INFO  TestBase :74 - ****************loginTeststarted*******************
+2020-06-19 20:06:947 INFO  TestBase :138 - Initialize Web driver: 457247584
+2020-06-19 20:06:957 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-19 20:06:957 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-19 20:06:973 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-19 20:06:985 INFO  WaitHelper :139 - page is loaded
+2020-06-19 20:06:671 INFO  TestBase :192 - navigating to ...http://automationpractice.com/index.php
+2020-06-19 20:06:698 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-19 20:06:727 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (3dc572ff10f3010891a6f6e4fb47b892)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-19 20:06:849 INFO  WaitHelper :77 - element is Clickable now
+2020-06-19 20:06:850 INFO  TestBase :170 - capturing ui navigation screen...
+2020-06-19 20:06:852 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:376 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:416 INFO  TestBase :200 - excel location C:\Users\Prade\eclipse-workspace-BhanuPrathap\Sample//src/main/resources/configfile/testData.xlsx
+2020-06-19 20:06:897 INFO  TestBase :74 - ****************loginTeststarted*******************
+2020-06-19 20:06:902 INFO  LoginPage :68 - clicked on sign in link...
+2020-06-19 20:06:157 INFO  LoginPage :75 - entering email address..1529830551216@gmail.com
+2020-06-19 20:06:322 INFO  LoginPage :81 - entering password.. password
+2020-06-19 20:06:433 INFO  LoginPage :88 - clicking on submit button..
+2020-06-19 20:06:435 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:435 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-19 20:06:601 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-19 20:06:603 INFO  TestBase :170 - capturing ui navigation screen...
+2020-06-19 20:06:604 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:28 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:154 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-19 20:06:732 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (3dc572ff10f3010891a6f6e4fb47b892)] -> xpath: //a[contains(.,'Sign in')]] for: 200 seconds
+2020-06-19 20:06:790 INFO  WaitHelper :151 - element is visible now
+2020-06-19 20:06:285 INFO  TestBase :74 - ****************loginTeststarted*******************
+2020-06-19 20:06:286 INFO  LoginPage :68 - clicked on sign in link...
+2020-06-19 20:06:273 INFO  LoginPage :75 - entering email address..1529830551216@gmail.com
+2020-06-19 20:06:420 INFO  LoginPage :81 - entering password.. password
+2020-06-19 20:06:527 INFO  LoginPage :88 - clicking on submit button..
+2020-06-19 20:06:529 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:529 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-19 20:06:866 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-19 20:06:867 INFO  TestBase :170 - capturing ui navigation screen...
+2020-06-19 20:06:869 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:239 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-19 20:06:361 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-19 20:06:340 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (3dc572ff10f3010891a6f6e4fb47b892)] -> xpath: //a[contains(.,'Sign in')]] for: 200 seconds
+2020-06-19 20:06:396 INFO  WaitHelper :151 - element is visible now
+2020-06-19 20:06:919 INFO  TestBase :74 - ****************loginTeststarted*******************

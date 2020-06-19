@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.Sample.CompanyName.ProjectName.helper.listener.ExtentListener"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.Sample.C">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="testLoginC"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterMethod"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.Sample.C -->
+      <class name="com.Sample.CompanyName.ProjectName.testScripts.TestScreenShot">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="testScreen"/>
+          <include name="afterMethod"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.Sample.CompanyName.ProjectName.testScripts.TestScreenShot -->
+      <class name="com.Sample.B">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="testLoginB"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterMethod"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.Sample.B -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

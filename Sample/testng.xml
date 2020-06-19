@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener
+			class-name="com.Sample.CompanyName.ProjectName.helper.listener.ExtentListener"></listener>
+</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.Sample.B"/>
+      <class name="com.Sample.A"/>
+      <class name="com.Sample.C"/>
+      <class name="com.Sample.CompanyName.ProjectName.testScripts.TestScreenShot"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

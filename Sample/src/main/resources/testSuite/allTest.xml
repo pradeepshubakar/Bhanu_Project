@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test">
+  <test thread-count="5" name="LoginTest">
+    <classes>
+      <class name="com.Sample.CompanyName.ProjectName.testScripts.LoginPage.LoginTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Registration Test">
+    <classes>
+      <class name="com.Sample.CompanyName.ProjectName.testScripts.registration.RegistrationTest"/>
+    </classes>
+  </test> 
+ <!--  <test thread-count="5" name="VerifyLowestFirstPriceFilter Test">
+    <classes>
+      <class name="com.Sample.CompanyName.ProjectName.testScripts.productDetailsPage.VerifyLowestFirstPriceFilter"/>
+    </classes>
+  </test> -->  
+</suite> 
