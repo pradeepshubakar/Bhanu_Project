@@ -1839,3 +1839,51 @@ remote stacktrace: Backtrace:
 2020-06-19 20:06:340 INFO  WaitHelper :148 - waiting for: [[ChromeDriver: chrome on WINDOWS (3dc572ff10f3010891a6f6e4fb47b892)] -> xpath: //a[contains(.,'Sign in')]] for: 200 seconds
 2020-06-19 20:06:396 INFO  WaitHelper :151 - element is visible now
 2020-06-19 20:06:919 INFO  TestBase :74 - ****************loginTeststarted*******************
+2020-06-20 11:06:726 INFO  TestBase :138 - Initialize Web driver: 1200470358
+2020-06-20 11:06:758 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-20 11:06:758 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-20 11:06:775 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-20 11:06:789 INFO  WaitHelper :139 - page is loaded
+2020-06-20 11:06:107 INFO  TestBase :74 - ****************testLoginToApplicationstarted*******************
+2020-06-20 11:06:332 INFO  TestBase :192 - navigating to ...http://automationpractice.com/index.php
+2020-06-20 11:06:375 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-20 11:06:433 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (40d4dfbfbfb41d25c82c2f8ce9303d81)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-20 11:06:593 INFO  WaitHelper :77 - element is Clickable now
+2020-06-20 11:06:594 INFO  TestBase :170 - capturing ui navigation screen...
+2020-06-20 11:06:608 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-20 11:06:158 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-20 11:06:192 INFO  LoginPage :68 - clicked on sign in link...
+2020-06-20 11:06:187 INFO  LoginPage :75 - entering email address..bspradee@gmail.com
+2020-06-20 11:06:454 INFO  LoginPage :81 - entering password.. shantha@123
+2020-06-20 11:06:571 INFO  LoginPage :88 - clicking on submit button..
+2020-06-20 11:06:573 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-20 11:06:574 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-20 11:06:521 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-20 11:06:522 INFO  TestBase :170 - capturing ui navigation screen...
+2020-06-20 11:06:523 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-20 11:06:877 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-20 11:06:16 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-20 11:06:966 INFO  TestBase :138 - Initialize Web driver: 1200470358
+2020-06-20 11:06:969 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-20 11:06:970 INFO  WaitHelper :34 - Implicit wait has been set to: 120
+2020-06-20 11:06:987 INFO  WaitHelper :137 - Waiting for page to load for: 100 SECONDS
+2020-06-20 11:06:01 INFO  WaitHelper :139 - page is loaded
+2020-06-20 11:06:161 INFO  TestBase :74 - ****************testLoginToApplicationstarted*******************
+2020-06-20 11:06:798 INFO  TestBase :192 - navigating to ...http://automationpractice.com/index.php
+2020-06-20 11:06:824 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-20 11:06:853 INFO  WaitHelper :73 - waiting for :[[ChromeDriver: chrome on WINDOWS (a02fd5264e0efbae3a99c8532f143f3e)] -> xpath: //a[contains(.,'Sign in')]]for :200 seconds
+2020-06-20 11:06:973 INFO  WaitHelper :77 - element is Clickable now
+2020-06-20 11:06:974 INFO  TestBase :170 - capturing ui navigation screen...
+2020-06-20 11:06:976 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-20 11:06:465 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-20 11:06:500 INFO  LoginPage :68 - clicked on sign in link...
+2020-06-20 11:06:461 INFO  LoginPage :75 - entering email address..bspradee@gmail.com
+2020-06-20 11:06:06 INFO  LoginPage :81 - entering password.. shantha@123
+2020-06-20 11:06:123 INFO  LoginPage :88 - clicking on submit button..
+2020-06-20 11:06:124 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-20 11:06:125 INFO  JavaScriptHelper :77 - scrolling down vertically...
+2020-06-20 11:06:423 INFO  WaitHelper :26 - WaitHelper Object created..
+2020-06-20 11:06:424 INFO  TestBase :170 - capturing ui navigation screen...
+2020-06-20 11:06:425 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-20 11:06:839 INFO  JavaScriptHelper :17 - JavaScriptHelper has been initialised
+2020-06-20 11:06:966 INFO  VerificationHelpler :23 - element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
